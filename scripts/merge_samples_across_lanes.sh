@@ -8,7 +8,7 @@
 
 # Directories to find the project .lst files (dir) and where we will generate the
 # new fastq.gz files (out).
-dir="P14052"
+dir="P12002"
 out="/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW"
 
 # Path from where .lst files path from.
@@ -21,8 +21,8 @@ find "$data" -name "${dir}_*.lst" | while read lst; do
     echo "Processing files for sample: $sample"
     
     # Out files for merged R1 and R2
-    R1_out="${out}/${sample}_R1.fastq"
-    R2_out="${out}/${sample}_R2.fastq"
+    R1_out="${out}/${sample}_R1.fastq.gz"
+    R2_out="${out}/${sample}_R2.fastq.gz"
     
     # Generate empty fastq.gz files for R1 and R2 to avoid duplication
     touch "$R1_out" "$R2_out"
@@ -35,16 +35,12 @@ find "$data" -name "${dir}_*.lst" | while read lst; do
 
             # Determines if its R1 or R2 fastq file
             if [[ "$line" =~ "_R1_" ]]; then
-                zcat "$fq_path" >> "$R1_out"
+                cat "$fq_path" >> "$R1_out"
             
             elif [[ "$line" =~ "_R2_" ]]; then
-                zcat "$fq_path" >> "$R2_out"
+                cat "$fq_path" >> "$R2_out"
             fi        
         fi
     done < "$lst"
-
-    break
 done
 
-# Gzip the created files
-gzip $out/*
