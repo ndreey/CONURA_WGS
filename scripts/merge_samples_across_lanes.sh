@@ -45,3 +45,6 @@ find "$data" -name "${dir}_*.lst" | while read lst; do
 
     break
 done
+
+# Gzip the created files
+gzip $out/*
