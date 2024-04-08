@@ -6,7 +6,8 @@
 #SBATCH -t 01:15:00
 #SBATCH --output=SLURM-%j-P14052_R1_QC_RAW.out
 #SBATCH --error=SLURM-%j-P14052_R1_QC_RAW.err
-
+#SBATCH --mail-user=andbou95@gmail.com
+#SBATCH --mail-type=ALL
 
 # Start time and date
 echo "$(date)       [Start]"
