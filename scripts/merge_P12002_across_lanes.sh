@@ -1,5 +1,14 @@
 #!/bin/bash
 
+#SBATCH --job-name P12002_merge
+#SBATCH -A naiss2024-5-1
+#SBATCH -p core -n 4
+#SBATCH -t 01:30:00
+#SBATCH --output=SLURM-%j-P12002_merge.out
+#SBATCH --error=SLURM-%j-P12002_merge.err
+#SBATCH --mail-user=andbou95@gmail.com
+#SBATCH --mail-type=ALL
+
 # Each sample in the sequence project ($dir) are found in the .lst file.
 # This script reads through each .lst and generates a concatenated fastq 
 # at user specified destination ($out).
@@ -24,8 +33,9 @@ find "$data" -name "${dir}_*.lst" | while read lst; do
     R1_out="${out}/${sample}_R1.fastq.gz"
     R2_out="${out}/${sample}_R2.fastq.gz"
     
-    # Generate empty fastq.gz files for R1 and R2 to avoid duplication
-    touch "$R1_out" "$R2_out"
+    # Generate empty fastq.gz files for R1 and R2 to avoid duplication by
+    # generating and setting the files to 0 bytes. Thus overwriting.
+    truncate -s 0 "$R1_out" "$R2_out"
     
     # Lets loop through the files in the .lst
     while read -r line; do

@@ -3,7 +3,7 @@
 #SBATCH --job-name P14052_R2_QC_raw
 #SBATCH -A naiss2024-5-1
 #SBATCH -p core -n 8
-#SBATCH -t 03:15:00
+#SBATCH -t 01:15:00
 #SBATCH --output=SLURM-%j-P14052_R2_QC_RAW.out
 #SBATCH --error=SLURM-%j-P14052_R2_QC_RAW.err
 
