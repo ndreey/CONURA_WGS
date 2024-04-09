@@ -1,0 +1,2364 @@
+Detecting adapter sequence for read1...
+>Illumina TruSeq Adapter Read 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:22:40] start to load data of read1 
+[09:22:40] start to load data of read2 
+[09:22:48] Read2: loaded 1M reads 
+[09:22:48] Read1: loaded 1M reads 
+[09:22:56] Read1: loaded 2M reads 
+[09:22:56] Read2: loaded 2M reads 
+[09:23:03] Read1: loaded 3M reads 
+[09:23:03] Read2: loaded 3M reads 
+[09:23:09] Read2: loaded 4M reads 
+[09:23:09] Read1: loaded 4M reads 
+[09:23:16] Read2: loaded 5M reads 
+[09:23:16] Read1: loaded 5M reads 
+[09:23:23] Read1: loaded 6M reads 
+[09:23:23] Read2: loaded 6M reads 
+[09:23:30] Read2: loaded 7M reads 
+[09:23:30] Read1: loaded 7M reads 
+[09:23:37] Read2: loaded 8M reads 
+[09:23:37] Read1: loaded 8M reads 
+[09:23:44] Read1: loaded 9M reads 
+[09:23:44] Read2: loaded 9M reads 
+[09:23:51] Read1: loaded 10M reads 
+[09:23:51] Read2: loaded 10M reads 
+[09:23:58] Read1: loaded 11M reads 
+[09:23:58] Read2: loaded 11M reads 
+[09:24:05] Read1: loaded 12M reads 
+[09:24:05] Read2: loaded 12M reads 
+[09:24:12] Read1: loaded 13M reads 
+[09:24:12] Read2: loaded 13M reads 
+[09:24:19] Read1: loaded 14M reads 
+[09:24:19] Read2: loaded 14M reads 
+[09:24:26] Read1: loaded 15M reads 
+[09:24:26] Read2: loaded 15M reads 
+[09:24:34] Read2: loaded 16M reads 
+[09:24:34] Read1: loaded 16M reads 
+[09:24:41] Read1: loaded 17M reads 
+[09:24:41] Read2: loaded 17M reads 
+[09:24:48] Read1: loaded 18M reads 
+[09:24:48] Read2: loaded 18M reads 
+[09:24:54] Read1: loaded 19M reads 
+[09:24:54] Read2: loaded 19M reads 
+[09:25:01] Read1: loaded 20M reads 
+[09:25:01] Read2: loaded 20M reads 
+[09:25:08] Read1: loaded 21M reads 
+[09:25:08] Read2: loaded 21M reads 
+[09:25:16] Read2: loaded 22M reads 
+[09:25:17] Read1: loaded 22M reads 
+[09:25:23] Read2: loaded 23M reads 
+[09:25:23] Read1: loaded 23M reads 
+[09:25:29] Read1: loaded 24M reads 
+[09:25:29] Read2: loaded 24M reads 
+[09:25:36] Read1: loaded 25M reads 
+[09:25:36] Read2: loaded 25M reads 
+[09:25:43] Read2: loaded 26M reads 
+[09:25:43] Read1: loaded 26M reads 
+[09:25:52] Read2: loaded 27M reads 
+[09:25:52] Read1: loaded 27M reads 
+[09:25:59] Read1: loaded 28M reads 
+[09:26:00] Read2: loaded 28M reads 
+[09:26:06] Read2: loaded 29M reads 
+[09:26:06] Read1: loaded 29M reads 
+[09:26:15] Read1: loaded 30M reads 
+[09:26:15] Read2: loaded 30M reads 
+[09:26:21] Read1: loaded 31M reads 
+[09:26:21] Read2: loaded 31M reads 
+[09:26:28] Read2: loaded 32M reads 
+[09:26:28] Read1: loaded 32M reads 
+[09:26:35] Read2: loaded 33M reads 
+[09:26:36] Read1: loaded 33M reads 
+[09:26:42] Read2: loaded 34M reads 
+[09:26:42] Read1: loaded 34M reads 
+[09:26:49] Read1: loaded 35M reads 
+[09:26:49] Read2: loaded 35M reads 
+[09:26:56] Read2: loaded 36M reads 
+[09:26:56] Read1: loaded 36M reads 
+[09:27:03] Read1: loaded 37M reads 
+[09:27:03] Read2: loaded 37M reads 
+[09:27:11] Read2: loaded 38M reads 
+[09:27:12] Read1: loaded 38M reads 
+[09:27:17] Read2: loaded 39M reads 
+[09:27:17] Read1: loaded 39M reads 
+[09:27:24] Read2: loaded 40M reads 
+[09:27:24] Read1: loaded 40M reads 
+[09:27:32] Read2: loaded 41M reads 
+[09:27:32] Read1: loaded 41M reads 
+[09:27:41] Read1: loaded 42M reads 
+[09:27:41] Read2: loaded 42M reads 
+[09:27:47] Read2: loaded 43M reads 
+[09:27:47] Read1: loaded 43M reads 
+[09:27:55] Read2: loaded 44M reads 
+[09:27:55] Read2: loading completed with 44068 packs 
+[09:27:55] Read1: loaded 44M reads 
+[09:27:56] Read1: loading completed with 44068 packs 
+[09:27:57] thread 6 data processing completed 
+[09:27:57] thread 6 finished 
+[09:27:57] thread 7 data processing completed 
+[09:27:57] thread 7 finished 
+[09:27:57] thread 8 data processing completed 
+[09:27:57] thread 8 finished 
+[09:27:57] thread 1 data processing completed 
+[09:27:57] thread 1 finished 
+[09:27:58] thread 2 data processing completed 
+[09:27:58] thread 2 finished 
+[09:27:58] thread 3 data processing completed 
+[09:27:58] thread 3 finished 
+[09:27:58] thread 4 data processing completed 
+[09:27:58] thread 4 finished 
+[09:27:58] thread 5 data processing completed 
+[09:27:58] thread 5 finished 
+[09:27:59] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_101_R1-trim.fastq.gz writer finished 
+[09:28:00] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_101_R2-trim.fastq.gz writer finished 
+[09:28:00] start to generate reports
+ 
+Read1 before filtering:
+total reads: 44067946
+total bases: 6654259846
+Q20 bases: 6383525836(95.9314%)
+Q30 bases: 6091059859(91.5362%)
+
+Read2 before filtering:
+total reads: 44067946
+total bases: 6654259846
+Q20 bases: 6207772597(93.2902%)
+Q30 bases: 5784255254(86.9256%)
+
+Read1 after filtering:
+total reads: 41206171
+total bases: 6216245973
+Q20 bases: 6021031903(96.8596%)
+Q30 bases: 5762264161(92.6968%)
+
+Read2 after filtering:
+total reads: 41206171
+total bases: 6209928789
+Q20 bases: 5906704998(95.1171%)
+Q30 bases: 5545365790(89.2984%)
+
+Filtering result:
+reads passed filter: 82412342
+reads failed due to low quality: 2493742
+reads failed due to too many N: 22332
+reads failed due to too short: 3207476
+reads with adapter trimmed: 2212984
+bases trimmed due to adapters: 72756136
+
+Duplication rate: 0.51436%
+
+Insert size peak (evaluated by paired-end reads): 270
+
+JSON report: P12002_101-fastp.json
+HTML report: P12002_101-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_101_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_101_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_101_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_101_R2-trim.fastq.gz --html P12002_101-fastp.html --json P12002_101-fastp.json --report_title P12002_101 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 340 seconds
+Detecting adapter sequence for read1...
+>Nextera_LMP_Read1_External_Adapter | >Illumina Multiplexing Index Sequencing Primer
+GATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:28:21] start to load data of read1 
+[09:28:21] start to load data of read2 
+[09:28:29] Read2: loaded 1M reads 
+[09:28:29] Read1: loaded 1M reads 
+[09:28:36] Read1: loaded 2M reads 
+[09:28:36] Read2: loaded 2M reads 
+[09:28:43] Read2: loaded 3M reads 
+[09:28:43] Read1: loaded 3M reads 
+[09:28:50] Read2: loaded 4M reads 
+[09:28:50] Read1: loaded 4M reads 
+[09:28:56] Read1: loaded 5M reads 
+[09:28:56] Read2: loaded 5M reads 
+[09:29:03] Read2: loaded 6M reads 
+[09:29:03] Read1: loaded 6M reads 
+[09:29:10] Read2: loaded 7M reads 
+[09:29:10] Read1: loaded 7M reads 
+[09:29:17] Read2: loaded 8M reads 
+[09:29:17] Read1: loaded 8M reads 
+[09:29:24] Read1: loaded 9M reads 
+[09:29:24] Read2: loaded 9M reads 
+[09:29:31] Read1: loaded 10M reads 
+[09:29:31] Read2: loaded 10M reads 
+[09:29:37] Read2: loaded 11M reads 
+[09:29:37] Read1: loaded 11M reads 
+[09:29:45] Read2: loaded 12M reads 
+[09:29:45] Read1: loaded 12M reads 
+[09:29:51] Read1: loaded 13M reads 
+[09:29:51] Read2: loaded 13M reads 
+[09:29:58] Read2: loaded 14M reads 
+[09:29:58] Read1: loaded 14M reads 
+[09:30:05] Read1: loaded 15M reads 
+[09:30:05] Read2: loaded 15M reads 
+[09:30:12] Read1: loaded 16M reads 
+[09:30:13] Read2: loaded 16M reads 
+[09:30:19] Read1: loaded 17M reads 
+[09:30:19] Read2: loaded 17M reads 
+[09:30:28] Read2: loaded 18M reads 
+[09:30:28] Read1: loaded 18M reads 
+[09:30:34] Read1: loaded 19M reads 
+[09:30:34] Read2: loaded 19M reads 
+[09:30:41] Read2: loaded 20M reads 
+[09:30:41] Read1: loaded 20M reads 
+[09:30:48] Read2: loaded 21M reads 
+[09:30:48] Read1: loaded 21M reads 
+[09:30:56] Read2: loaded 22M reads 
+[09:30:57] Read1: loaded 22M reads 
+[09:31:04] Read1: loaded 23M reads 
+[09:31:04] Read2: loaded 23M reads 
+[09:31:09] Read2: loaded 24M reads 
+[09:31:09] Read1: loaded 24M reads 
+[09:31:16] Read1: loaded 25M reads 
+[09:31:16] Read2: loaded 25M reads 
+[09:31:23] Read2: loaded 26M reads 
+[09:31:24] Read1: loaded 26M reads 
+[09:31:30] Read1: loaded 27M reads 
+[09:31:30] Read2: loaded 27M reads 
+[09:31:37] Read1: loaded 28M reads 
+[09:31:37] Read2: loaded 28M reads 
+[09:31:44] Read2: loaded 29M reads 
+[09:31:44] Read1: loaded 29M reads 
+[09:31:51] Read2: loaded 30M reads 
+[09:31:51] Read1: loaded 30M reads 
+[09:31:58] Read2: loading completed with 30686 packs 
+[09:31:59] Read1: loading completed with 30686 packs 
+[09:31:59] thread 7 data processing completed 
+[09:31:59] thread 7 finished 
+[09:31:59] thread 5 data processing completed 
+[09:31:59] thread 5 finished 
+[09:31:59] thread 2 data processing completed 
+[09:31:59] thread 2 finished 
+[09:31:59] thread 8 data processing completed 
+[09:31:59] thread 8 finished 
+[09:31:59] thread 3 data processing completed 
+[09:31:59] thread 3 finished 
+[09:31:59] thread 6 data processing completed 
+[09:31:59] thread 6 finished 
+[09:31:59] thread 4 data processing completed 
+[09:31:59] thread 4 finished 
+[09:31:59] thread 1 data processing completed 
+[09:31:59] thread 1 finished 
+[09:32:02] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_102_R1-trim.fastq.gz writer finished 
+[09:32:02] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_102_R2-trim.fastq.gz writer finished 
+[09:32:02] start to generate reports
+ 
+Read1 before filtering:
+total reads: 30685696
+total bases: 4633540096
+Q20 bases: 4428850973(95.5824%)
+Q30 bases: 4212949471(90.9229%)
+
+Read2 before filtering:
+total reads: 30685696
+total bases: 4633540096
+Q20 bases: 4302883973(92.8639%)
+Q30 bases: 3997375741(86.2704%)
+
+Read1 after filtering:
+total reads: 28592509
+total bases: 4307157387
+Q20 bases: 4169274182(96.7987%)
+Q30 bases: 3984826311(92.5164%)
+
+Read2 after filtering:
+total reads: 28592509
+total bases: 4303724082
+Q20 bases: 4085464869(94.9286%)
+Q30 bases: 3827223301(88.9282%)
+
+Filtering result:
+reads passed filter: 57185018
+reads failed due to low quality: 1804244
+reads failed due to too many N: 13426
+reads failed due to too short: 2368704
+reads with adapter trimmed: 2038626
+bases trimmed due to adapters: 80681287
+
+Duplication rate: 1.96392%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P12002_102-fastp.json
+HTML report: P12002_102-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_102_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_102_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_102_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_102_R2-trim.fastq.gz --html P12002_102-fastp.html --json P12002_102-fastp.json --report_title P12002_102 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 243 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:32:35] start to load data of read1 
+[09:32:35] start to load data of read2 
+[09:32:43] Read1: loaded 1M reads 
+[09:32:43] Read2: loaded 1M reads 
+[09:32:50] Read2: loaded 2M reads 
+[09:32:50] Read1: loaded 2M reads 
+[09:32:57] Read1: loaded 3M reads 
+[09:32:57] Read2: loaded 3M reads 
+[09:33:03] Read1: loaded 4M reads 
+[09:33:03] Read2: loaded 4M reads 
+[09:33:10] Read1: loaded 5M reads 
+[09:33:10] Read2: loaded 5M reads 
+[09:33:16] Read1: loaded 6M reads 
+[09:33:16] Read2: loaded 6M reads 
+[09:33:23] Read2: loaded 7M reads 
+[09:33:23] Read1: loaded 7M reads 
+[09:33:30] Read2: loaded 8M reads 
+[09:33:30] Read1: loaded 8M reads 
+[09:33:35] Read2: loaded 9M reads 
+[09:33:35] Read1: loaded 9M reads 
+[09:33:43] Read2: loaded 10M reads 
+[09:33:43] Read1: loaded 10M reads 
+[09:33:50] Read2: loaded 11M reads 
+[09:33:50] Read1: loaded 11M reads 
+[09:33:56] Read2: loaded 12M reads 
+[09:33:56] Read1: loaded 12M reads 
+[09:34:04] Read1: loaded 13M reads 
+[09:34:04] Read2: loaded 13M reads 
+[09:34:10] Read2: loaded 14M reads 
+[09:34:10] Read1: loaded 14M reads 
+[09:34:17] Read2: loaded 15M reads 
+[09:34:18] Read1: loaded 15M reads 
+[09:34:24] Read2: loaded 16M reads 
+[09:34:24] Read1: loaded 16M reads 
+[09:34:30] Read2: loaded 17M reads 
+[09:34:30] Read1: loaded 17M reads 
+[09:34:37] Read1: loaded 18M reads 
+[09:34:37] Read2: loaded 18M reads 
+[09:34:43] Read1: loaded 19M reads 
+[09:34:43] Read2: loaded 19M reads 
+[09:34:51] Read2: loaded 20M reads 
+[09:34:51] Read1: loaded 20M reads 
+[09:34:57] Read2: loaded 21M reads 
+[09:34:57] Read1: loaded 21M reads 
+[09:35:03] Read2: loaded 22M reads 
+[09:35:03] Read1: loaded 22M reads 
+[09:35:11] Read1: loaded 23M reads 
+[09:35:11] Read2: loaded 23M reads 
+[09:35:18] Read2: loaded 24M reads 
+[09:35:18] Read1: loaded 24M reads 
+[09:35:25] Read2: loaded 25M reads 
+[09:35:25] Read1: loaded 25M reads 
+[09:35:31] Read1: loaded 26M reads 
+[09:35:32] Read2: loaded 26M reads 
+[09:35:37] Read2: loaded 27M reads 
+[09:35:37] Read1: loaded 27M reads 
+[09:35:41] Read2: loading completed with 27123 packs 
+[09:35:41] Read1: loading completed with 27123 packs 
+[09:35:41] thread 5 data processing completed 
+[09:35:41] thread 5 finished 
+[09:35:41] thread 8 data processing completed 
+[09:35:41] thread 8 finished 
+[09:35:41] thread 6 data processing completed 
+[09:35:41] thread 6 finished 
+[09:35:42] thread 4 data processing completed 
+[09:35:42] thread 4 finished 
+[09:35:42] thread 1 data processing completed 
+[09:35:42] thread 1 finished 
+[09:35:42] thread 3 data processing completed 
+[09:35:42] thread 3 finished 
+[09:35:42] thread 2 data processing completed 
+[09:35:42] thread 2 finished 
+[09:35:42] thread 7 data processing completed 
+[09:35:42] thread 7 finished 
+[09:35:42] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_103_R1-trim.fastq.gz writer finished 
+[09:35:44] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_103_R2-trim.fastq.gz writer finished 
+[09:35:44] start to generate reports
+ 
+Read1 before filtering:
+total reads: 27122846
+total bases: 4095549746
+Q20 bases: 3924549604(95.8247%)
+Q30 bases: 3731896073(91.1208%)
+
+Read2 before filtering:
+total reads: 27122846
+total bases: 4095549746
+Q20 bases: 3804310907(92.8889%)
+Q30 bases: 3523875457(86.0416%)
+
+Read1 after filtering:
+total reads: 25818841
+total bases: 3891301307
+Q20 bases: 3758128911(96.5777%)
+Q30 bases: 3587375955(92.1896%)
+
+Read2 after filtering:
+total reads: 25818841
+total bases: 3886370296
+Q20 bases: 3679314716(94.6723%)
+Q30 bases: 3437340298(88.446%)
+
+Filtering result:
+reads passed filter: 51637682
+reads failed due to low quality: 2197068
+reads failed due to too many N: 20568
+reads failed due to too short: 390374
+reads with adapter trimmed: 784445
+bases trimmed due to adapters: 34728602
+
+Duplication rate: 1.62816%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P12002_103-fastp.json
+HTML report: P12002_103-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_103_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_103_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_103_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_103_R2-trim.fastq.gz --html P12002_103-fastp.html --json P12002_103-fastp.json --report_title P12002_103 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 221 seconds
+Detecting adapter sequence for read1...
+>Illumina TruSeq Adapter Read 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:36:07] start to load data of read2 
+[09:36:07] start to load data of read1 
+[09:36:15] Read1: loaded 1M reads 
+[09:36:15] Read2: loaded 1M reads 
+[09:36:23] Read2: loaded 2M reads 
+[09:36:23] Read1: loaded 2M reads 
+[09:36:30] Read2: loaded 3M reads 
+[09:36:30] Read1: loaded 3M reads 
+[09:36:37] Read1: loaded 4M reads 
+[09:36:37] Read2: loaded 4M reads 
+[09:36:44] Read1: loaded 5M reads 
+[09:36:44] Read2: loaded 5M reads 
+[09:36:51] Read1: loaded 6M reads 
+[09:36:51] Read2: loaded 6M reads 
+[09:36:58] Read2: loaded 7M reads 
+[09:36:58] Read1: loaded 7M reads 
+[09:37:05] Read2: loaded 8M reads 
+[09:37:05] Read1: loaded 8M reads 
+[09:37:12] Read1: loaded 9M reads 
+[09:37:12] Read2: loaded 9M reads 
+[09:37:19] Read1: loaded 10M reads 
+[09:37:19] Read2: loaded 10M reads 
+[09:37:26] Read2: loaded 11M reads 
+[09:37:26] Read1: loaded 11M reads 
+[09:37:33] Read1: loaded 12M reads 
+[09:37:34] Read2: loaded 12M reads 
+[09:37:40] Read2: loaded 13M reads 
+[09:37:40] Read1: loaded 13M reads 
+[09:37:47] Read2: loaded 14M reads 
+[09:37:47] Read1: loaded 14M reads 
+[09:37:54] Read1: loaded 15M reads 
+[09:37:54] Read2: loaded 15M reads 
+[09:38:01] Read2: loaded 16M reads 
+[09:38:01] Read1: loaded 16M reads 
+[09:38:09] Read1: loaded 17M reads 
+[09:38:09] Read2: loaded 17M reads 
+[09:38:16] Read1: loaded 18M reads 
+[09:38:17] Read2: loaded 18M reads 
+[09:38:23] Read1: loaded 19M reads 
+[09:38:23] Read2: loaded 19M reads 
+[09:38:30] Read1: loaded 20M reads 
+[09:38:30] Read2: loaded 20M reads 
+[09:38:37] Read1: loaded 21M reads 
+[09:38:37] Read2: loaded 21M reads 
+[09:38:44] Read2: loaded 22M reads 
+[09:38:44] Read1: loaded 22M reads 
+[09:38:52] Read2: loaded 23M reads 
+[09:38:52] Read1: loaded 23M reads 
+[09:39:00] Read2: loaded 24M reads 
+[09:39:00] Read1: loaded 24M reads 
+[09:39:06] Read2: loaded 25M reads 
+[09:39:06] Read1: loaded 25M reads 
+[09:39:13] Read1: loaded 26M reads 
+[09:39:13] Read2: loaded 26M reads 
+[09:39:20] Read1: loaded 27M reads 
+[09:39:20] Read2: loaded 27M reads 
+[09:39:28] Read1: loaded 28M reads 
+[09:39:28] Read2: loaded 28M reads 
+[09:39:35] Read2: loaded 29M reads 
+[09:39:35] Read1: loaded 29M reads 
+[09:39:42] Read1: loading completed with 29909 packs 
+[09:39:42] Read2: loading completed with 29909 packs 
+[09:39:43] thread 4 data processing completed 
+[09:39:43] thread 4 finished 
+[09:39:43] thread 8 data processing completed 
+[09:39:43] thread 8 finished 
+[09:39:43] thread 1 data processing completed 
+[09:39:43] thread 1 finished 
+[09:39:43] thread 7 data processing completed 
+[09:39:43] thread 7 finished 
+[09:39:44] thread 6 data processing completed 
+[09:39:44] thread 6 finished 
+[09:39:45] thread 5 data processing completed 
+[09:39:45] thread 5 finished 
+[09:39:46] thread 3 data processing completed 
+[09:39:46] thread 3 finished 
+[09:39:47] thread 2 data processing completed 
+[09:39:47] thread 2 finished 
+[09:39:47] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_104_R2-trim.fastq.gz writer finished 
+[09:39:47] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_104_R1-trim.fastq.gz writer finished 
+[09:39:47] start to generate reports
+ 
+Read1 before filtering:
+total reads: 29908190
+total bases: 4516136690
+Q20 bases: 4340848439(96.1186%)
+Q30 bases: 4141829017(91.7118%)
+
+Read2 before filtering:
+total reads: 29908190
+total bases: 4516136690
+Q20 bases: 4218920282(93.4188%)
+Q30 bases: 3929753224(87.0158%)
+
+Read1 after filtering:
+total reads: 28253973
+total bases: 4262565529
+Q20 bases: 4127553027(96.8326%)
+Q30 bases: 3947641948(92.6119%)
+
+Read2 after filtering:
+total reads: 28253973
+total bases: 4258507413
+Q20 bases: 4048663740(95.0724%)
+Q30 bases: 3798344378(89.1943%)
+
+Filtering result:
+reads passed filter: 56507946
+reads failed due to low quality: 1689268
+reads failed due to too many N: 15294
+reads failed due to too short: 1603872
+reads with adapter trimmed: 1179843
+bases trimmed due to adapters: 39266691
+
+Duplication rate: 0.349694%
+
+Insert size peak (evaluated by paired-end reads): 34
+
+JSON report: P12002_104-fastp.json
+HTML report: P12002_104-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_104_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_104_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_104_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_104_R2-trim.fastq.gz --html P12002_104-fastp.html --json P12002_104-fastp.json --report_title P12002_104 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 243 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[09:40:21] start to load data of read2 
+[09:40:21] start to load data of read1 
+[09:40:28] Read1: loaded 1M reads 
+[09:40:28] Read2: loaded 1M reads 
+[09:40:35] Read2: loaded 2M reads 
+[09:40:35] Read1: loaded 2M reads 
+[09:40:41] Read2: loaded 3M reads 
+[09:40:41] Read1: loaded 3M reads 
+[09:40:47] Read1: loaded 4M reads 
+[09:40:47] Read2: loaded 4M reads 
+[09:40:53] Read1: loaded 5M reads 
+[09:40:53] Read2: loaded 5M reads 
+[09:40:59] Read2: loaded 6M reads 
+[09:40:59] Read1: loaded 6M reads 
+[09:41:05] Read2: loaded 7M reads 
+[09:41:05] Read1: loaded 7M reads 
+[09:41:13] Read2: loaded 8M reads 
+[09:41:13] Read1: loaded 8M reads 
+[09:41:20] Read1: loaded 9M reads 
+[09:41:20] Read2: loaded 9M reads 
+[09:41:26] Read1: loaded 10M reads 
+[09:41:27] Read2: loaded 10M reads 
+[09:41:33] Read2: loaded 11M reads 
+[09:41:34] Read1: loaded 11M reads 
+[09:41:40] Read2: loaded 12M reads 
+[09:41:40] Read1: loaded 12M reads 
+[09:41:46] Read1: loaded 13M reads 
+[09:41:46] Read2: loaded 13M reads 
+[09:41:54] Read1: loaded 14M reads 
+[09:41:54] Read2: loaded 14M reads 
+[09:42:01] Read2: loaded 15M reads 
+[09:42:02] Read1: loaded 15M reads 
+[09:42:08] Read1: loaded 16M reads 
+[09:42:08] Read2: loaded 16M reads 
+[09:42:13] Read2: loaded 17M reads 
+[09:42:13] Read1: loaded 17M reads 
+[09:42:20] Read1: loaded 18M reads 
+[09:42:21] Read2: loaded 18M reads 
+[09:42:27] Read1: loaded 19M reads 
+[09:42:27] Read2: loaded 19M reads 
+[09:42:34] Read2: loaded 20M reads 
+[09:42:34] Read1: loaded 20M reads 
+[09:42:40] Read1: loaded 21M reads 
+[09:42:40] Read2: loaded 21M reads 
+[09:42:47] Read1: loaded 22M reads 
+[09:42:47] Read2: loaded 22M reads 
+[09:42:53] Read2: loaded 23M reads 
+[09:42:54] Read1: loaded 23M reads 
+[09:42:59] Read2: loaded 24M reads 
+[09:43:00] Read1: loaded 24M reads 
+[09:43:06] Read2: loaded 25M reads 
+[09:43:07] Read1: loaded 25M reads 
+[09:43:13] Read2: loaded 26M reads 
+[09:43:13] Read1: loaded 26M reads 
+[09:43:20] Read1: loaded 27M reads 
+[09:43:21] Read2: loaded 27M reads 
+[09:43:27] Read2: loaded 28M reads 
+[09:43:27] Read1: loaded 28M reads 
+[09:43:34] Read1: loaded 29M reads 
+[09:43:34] Read2: loaded 29M reads 
+[09:43:40] Read1: loaded 30M reads 
+[09:43:40] Read2: loaded 30M reads 
+[09:43:47] Read1: loaded 31M reads 
+[09:43:47] Read2: loaded 31M reads 
+[09:43:54] Read2: loaded 32M reads 
+[09:43:54] Read1: loaded 32M reads 
+[09:44:00] Read1: loading completed with 32747 packs 
+[09:44:00] Read2: loading completed with 32747 packs 
+[09:44:00] thread 7 data processing completed 
+[09:44:00] thread 7 finished 
+[09:44:01] thread 6 data processing completed 
+[09:44:01] thread 6 finished 
+[09:44:01] thread 2 data processing completed 
+[09:44:01] thread 2 finished 
+[09:44:01] thread 1 data processing completed 
+[09:44:01] thread 1 finished 
+[09:44:01] thread 5 data processing completed 
+[09:44:01] thread 5 finished 
+[09:44:01] thread 4 data processing completed 
+[09:44:01] thread 4 finished 
+[09:44:01] thread 8 data processing completed 
+[09:44:01] thread 8 finished 
+[09:44:01] thread 3 data processing completed 
+[09:44:01] thread 3 finished 
+[09:44:01] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_105_R1-trim.fastq.gz writer finished 
+[09:44:03] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_105_R2-trim.fastq.gz writer finished 
+[09:44:03] start to generate reports
+ 
+Read1 before filtering:
+total reads: 32746395
+total bases: 4944705645
+Q20 bases: 4761330307(96.2915%)
+Q30 bases: 4537447197(91.7637%)
+
+Read2 before filtering:
+total reads: 32746395
+total bases: 4944705645
+Q20 bases: 4629369860(93.6228%)
+Q30 bases: 4311152161(87.1872%)
+
+Read1 after filtering:
+total reads: 31605524
+total bases: 4763380808
+Q20 bases: 4609162445(96.7624%)
+Q30 bases: 4403964963(92.4546%)
+
+Read2 after filtering:
+total reads: 31605524
+total bases: 4763353544
+Q20 bases: 4521455228(94.9217%)
+Q30 bases: 4237283087(88.9559%)
+
+Filtering result:
+reads passed filter: 63211048
+reads failed due to low quality: 2199680
+reads failed due to too many N: 15634
+reads failed due to too short: 66428
+reads with adapter trimmed: 450562
+bases trimmed due to adapters: 25424614
+
+Duplication rate: 1.93647%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P12002_105-fastp.json
+HTML report: P12002_105-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_105_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_105_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_105_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_105_R2-trim.fastq.gz --html P12002_105-fastp.html --json P12002_105-fastp.json --report_title P12002_105 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 256 seconds
+Detecting adapter sequence for read1...
+>Illumina TruSeq Adapter Read 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:44:30] start to load data of read2 
+[09:44:30] start to load data of read1 
+[09:44:38] Read1: loaded 1M reads 
+[09:44:38] Read2: loaded 1M reads 
+[09:44:46] Read1: loaded 2M reads 
+[09:44:46] Read2: loaded 2M reads 
+[09:44:52] Read1: loaded 3M reads 
+[09:44:52] Read2: loaded 3M reads 
+[09:44:59] Read2: loaded 4M reads 
+[09:44:59] Read1: loaded 4M reads 
+[09:45:06] Read2: loaded 5M reads 
+[09:45:06] Read1: loaded 5M reads 
+[09:45:12] Read2: loaded 6M reads 
+[09:45:12] Read1: loaded 6M reads 
+[09:45:19] Read2: loaded 7M reads 
+[09:45:19] Read1: loaded 7M reads 
+[09:45:26] Read1: loaded 8M reads 
+[09:45:26] Read2: loaded 8M reads 
+[09:45:33] Read1: loaded 9M reads 
+[09:45:33] Read2: loaded 9M reads 
+[09:45:40] Read2: loaded 10M reads 
+[09:45:40] Read1: loaded 10M reads 
+[09:45:47] Read2: loaded 11M reads 
+[09:45:47] Read1: loaded 11M reads 
+[09:45:54] Read2: loaded 12M reads 
+[09:45:54] Read1: loaded 12M reads 
+[09:46:00] Read2: loaded 13M reads 
+[09:46:00] Read1: loaded 13M reads 
+[09:46:08] Read1: loaded 14M reads 
+[09:46:08] Read2: loaded 14M reads 
+[09:46:14] Read1: loaded 15M reads 
+[09:46:14] Read2: loaded 15M reads 
+[09:46:22] Read1: loaded 16M reads 
+[09:46:22] Read2: loaded 16M reads 
+[09:46:29] Read2: loaded 17M reads 
+[09:46:29] Read1: loaded 17M reads 
+[09:46:36] Read2: loaded 18M reads 
+[09:46:36] Read1: loaded 18M reads 
+[09:46:42] Read1: loaded 19M reads 
+[09:46:42] Read2: loaded 19M reads 
+[09:46:49] Read1: loaded 20M reads 
+[09:46:49] Read2: loaded 20M reads 
+[09:46:56] Read2: loaded 21M reads 
+[09:46:56] Read1: loaded 21M reads 
+[09:47:03] Read1: loaded 22M reads 
+[09:47:03] Read2: loaded 22M reads 
+[09:47:11] Read1: loaded 23M reads 
+[09:47:11] Read2: loaded 23M reads 
+[09:47:15] Read1: loading completed with 23842 packs 
+[09:47:15] Read2: loading completed with 23842 packs 
+[09:47:17] thread 8 data processing completed 
+[09:47:17] thread 8 finished 
+[09:47:18] thread 7 data processing completed 
+[09:47:18] thread 7 finished 
+[09:47:18] thread 3 data processing completed 
+[09:47:18] thread 3 finished 
+[09:47:18] thread 4 data processing completed 
+[09:47:18] thread 4 finished 
+[09:47:18] thread 2 data processing completed 
+[09:47:18] thread 2 finished 
+[09:47:19] thread 5 data processing completed 
+[09:47:19] thread 5 finished 
+[09:47:19] thread 1 data processing completed 
+[09:47:19] thread 1 finished 
+[09:47:20] thread 6 data processing completed 
+[09:47:20] thread 6 finished 
+[09:47:20] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_106_R1-trim.fastq.gz writer finished 
+[09:47:21] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_106_R2-trim.fastq.gz writer finished 
+[09:47:21] start to generate reports
+ 
+Read1 before filtering:
+total reads: 23841113
+total bases: 3600008063
+Q20 bases: 3436055684(95.4458%)
+Q30 bases: 3264645944(90.6844%)
+
+Read2 before filtering:
+total reads: 23841113
+total bases: 3600008063
+Q20 bases: 3344409737(92.9001%)
+Q30 bases: 3108111262(86.3362%)
+
+Read1 after filtering:
+total reads: 22623735
+total bases: 3395668387
+Q20 bases: 3290045582(96.8895%)
+Q30 bases: 3149646162(92.7548%)
+
+Read2 after filtering:
+total reads: 22623735
+total bases: 3395426419
+Q20 bases: 3228122407(95.0727%)
+Q30 bases: 3028970997(89.2074%)
+
+Filtering result:
+reads passed filter: 45247470
+reads failed due to low quality: 1404358
+reads failed due to too many N: 15838
+reads failed due to too short: 1014560
+reads with adapter trimmed: 1968808
+bases trimmed due to adapters: 86255550
+
+Duplication rate: 5.33158%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P12002_106-fastp.json
+HTML report: P12002_106-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_106_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_106_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_106_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_106_R2-trim.fastq.gz --html P12002_106-fastp.html --json P12002_106-fastp.json --report_title P12002_106 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 199 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:47:55] start to load data of read2 
+[09:47:55] start to load data of read1 
+[09:48:02] Read1: loaded 1M reads 
+[09:48:02] Read2: loaded 1M reads 
+[09:48:10] Read2: loaded 2M reads 
+[09:48:10] Read1: loaded 2M reads 
+[09:48:16] Read2: loaded 3M reads 
+[09:48:16] Read1: loaded 3M reads 
+[09:48:23] Read2: loaded 4M reads 
+[09:48:23] Read1: loaded 4M reads 
+[09:48:29] Read1: loaded 5M reads 
+[09:48:29] Read2: loaded 5M reads 
+[09:48:36] Read1: loaded 6M reads 
+[09:48:36] Read2: loaded 6M reads 
+[09:48:42] Read1: loaded 7M reads 
+[09:48:42] Read2: loaded 7M reads 
+[09:48:49] Read2: loaded 8M reads 
+[09:48:49] Read1: loaded 8M reads 
+[09:48:56] Read2: loaded 9M reads 
+[09:48:56] Read1: loaded 9M reads 
+[09:49:02] Read1: loaded 10M reads 
+[09:49:02] Read2: loaded 10M reads 
+[09:49:09] Read2: loaded 11M reads 
+[09:49:09] Read1: loaded 11M reads 
+[09:49:16] Read2: loaded 12M reads 
+[09:49:16] Read1: loaded 12M reads 
+[09:49:22] Read2: loaded 13M reads 
+[09:49:22] Read1: loaded 13M reads 
+[09:49:29] Read1: loaded 14M reads 
+[09:49:29] Read2: loaded 14M reads 
+[09:49:35] Read1: loaded 15M reads 
+[09:49:36] Read2: loaded 15M reads 
+[09:49:43] Read1: loaded 16M reads 
+[09:49:43] Read2: loaded 16M reads 
+[09:49:51] Read1: loaded 17M reads 
+[09:49:51] Read2: loaded 17M reads 
+[09:49:57] Read2: loaded 18M reads 
+[09:49:57] Read1: loaded 18M reads 
+[09:50:05] Read1: loaded 19M reads 
+[09:50:05] Read2: loaded 19M reads 
+[09:50:12] Read1: loaded 20M reads 
+[09:50:12] Read2: loaded 20M reads 
+[09:50:19] Read1: loaded 21M reads 
+[09:50:19] Read2: loaded 21M reads 
+[09:50:27] Read2: loaded 22M reads 
+[09:50:27] Read1: loaded 22M reads 
+[09:50:33] Read2: loaded 23M reads 
+[09:50:35] Read1: loaded 23M reads 
+[09:50:40] Read2: loaded 24M reads 
+[09:50:40] Read1: loaded 24M reads 
+[09:50:48] Read2: loaded 25M reads 
+[09:50:48] Read1: loaded 25M reads 
+[09:50:54] Read2: loaded 26M reads 
+[09:50:54] Read1: loaded 26M reads 
+[09:51:00] Read1: loaded 27M reads 
+[09:51:00] Read2: loaded 27M reads 
+[09:51:08] Read2: loaded 28M reads 
+[09:51:08] Read1: loaded 28M reads 
+[09:51:14] Read1: loaded 29M reads 
+[09:51:14] Read2: loaded 29M reads 
+[09:51:23] Read1: loaded 30M reads 
+[09:51:23] Read2: loaded 30M reads 
+[09:51:29] Read1: loaded 31M reads 
+[09:51:29] Read2: loaded 31M reads 
+[09:51:33] Read1: loading completed with 31482 packs 
+[09:51:33] Read2: loading completed with 31482 packs 
+[09:51:34] thread 3 data processing completed 
+[09:51:34] thread 3 finished 
+[09:51:34] thread 6 data processing completed 
+[09:51:34] thread 6 finished 
+[09:51:34] thread 1 data processing completed 
+[09:51:34] thread 1 finished 
+[09:51:34] thread 5 data processing completed 
+[09:51:34] thread 5 finished 
+[09:51:35] thread 4 data processing completed 
+[09:51:35] thread 4 finished 
+[09:51:35] thread 8 data processing completed 
+[09:51:35] thread 8 finished 
+[09:51:36] thread 7 data processing completed 
+[09:51:36] thread 7 finished 
+[09:51:36] thread 2 data processing completed 
+[09:51:36] thread 2 finished 
+[09:51:37] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_107_R1-trim.fastq.gz writer finished 
+[09:51:38] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_107_R2-trim.fastq.gz writer finished 
+[09:51:38] start to generate reports
+ 
+Read1 before filtering:
+total reads: 31481009
+total bases: 4753632359
+Q20 bases: 4580071176(96.3489%)
+Q30 bases: 4371217832(91.9553%)
+
+Read2 before filtering:
+total reads: 31481009
+total bases: 4753632359
+Q20 bases: 4424106493(93.0679%)
+Q30 bases: 4097331100(86.1937%)
+
+Read1 after filtering:
+total reads: 30104915
+total bases: 4545619224
+Q20 bases: 4396575283(96.7212%)
+Q30 bases: 4201426691(92.428%)
+
+Read2 after filtering:
+total reads: 30104915
+total bases: 4537409428
+Q20 bases: 4293255336(94.6191%)
+Q30 bases: 4006204057(88.2928%)
+
+Filtering result:
+reads passed filter: 60209830
+reads failed due to low quality: 2303782
+reads failed due to too many N: 15548
+reads failed due to too short: 432858
+reads with adapter trimmed: 438012
+bases trimmed due to adapters: 17374403
+
+Duplication rate: 0.369235%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P12002_107-fastp.json
+HTML report: P12002_107-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_107_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_107_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_107_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_107_R2-trim.fastq.gz --html P12002_107-fastp.html --json P12002_107-fastp.json --report_title P12002_107 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 256 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:52:11] start to load data of read1 
+[09:52:11] start to load data of read2 
+[09:52:18] Read1: loaded 1M reads 
+[09:52:19] Read2: loaded 1M reads 
+[09:52:26] Read1: loaded 2M reads 
+[09:52:26] Read2: loaded 2M reads 
+[09:52:32] Read1: loaded 3M reads 
+[09:52:32] Read2: loaded 3M reads 
+[09:52:39] Read1: loaded 4M reads 
+[09:52:39] Read2: loaded 4M reads 
+[09:52:45] Read2: loaded 5M reads 
+[09:52:45] Read1: loaded 5M reads 
+[09:52:52] Read2: loaded 6M reads 
+[09:52:52] Read1: loaded 6M reads 
+[09:52:58] Read1: loaded 7M reads 
+[09:52:58] Read2: loaded 7M reads 
+[09:53:06] Read2: loaded 8M reads 
+[09:53:07] Read1: loaded 8M reads 
+[09:53:12] Read1: loaded 9M reads 
+[09:53:12] Read2: loaded 9M reads 
+[09:53:20] Read2: loaded 10M reads 
+[09:53:20] Read1: loaded 10M reads 
+[09:53:27] Read2: loaded 11M reads 
+[09:53:27] Read1: loaded 11M reads 
+[09:53:35] Read1: loaded 12M reads 
+[09:53:35] Read2: loaded 12M reads 
+[09:53:42] Read2: loaded 13M reads 
+[09:53:42] Read1: loaded 13M reads 
+[09:53:48] Read1: loaded 14M reads 
+[09:53:48] Read2: loaded 14M reads 
+[09:53:54] Read2: loaded 15M reads 
+[09:53:54] Read1: loaded 15M reads 
+[09:54:00] Read1: loaded 16M reads 
+[09:54:00] Read2: loaded 16M reads 
+[09:54:08] Read1: loaded 17M reads 
+[09:54:08] Read2: loaded 17M reads 
+[09:54:14] Read2: loaded 18M reads 
+[09:54:15] Read1: loaded 18M reads 
+[09:54:22] Read2: loaded 19M reads 
+[09:54:23] Read1: loaded 19M reads 
+[09:54:28] Read2: loaded 20M reads 
+[09:54:28] Read1: loaded 20M reads 
+[09:54:36] Read2: loaded 21M reads 
+[09:54:36] Read1: loaded 21M reads 
+[09:54:41] Read2: loaded 22M reads 
+[09:54:41] Read1: loaded 22M reads 
+[09:54:49] Read2: loaded 23M reads 
+[09:54:49] Read1: loaded 23M reads 
+[09:54:58] Read1: loaded 24M reads 
+[09:54:58] Read2: loaded 24M reads 
+[09:55:04] Read2: loaded 25M reads 
+[09:55:05] Read1: loaded 25M reads 
+[09:55:12] Read1: loaded 26M reads 
+[09:55:13] Read1: loading completed with 26056 packs 
+[09:55:13] Read2: loaded 26M reads 
+[09:55:13] Read2: loading completed with 26056 packs 
+[09:55:14] thread 6 data processing completed 
+[09:55:14] thread 6 finished 
+[09:55:14] thread 2 data processing completed 
+[09:55:14] thread 2 finished 
+[09:55:14] thread 1 data processing completed 
+[09:55:14] thread 1 finished 
+[09:55:15] thread 4 data processing completed 
+[09:55:15] thread 4 finished 
+[09:55:15] thread 7 data processing completed 
+[09:55:15] thread 7 finished 
+[09:55:15] thread 3 data processing completed 
+[09:55:15] thread 3 finished 
+[09:55:15] thread 8 data processing completed 
+[09:55:15] thread 8 finished 
+[09:55:15] thread 5 data processing completed 
+[09:55:15] thread 5 finished 
+[09:55:15] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_108_R1-trim.fastq.gz writer finished 
+[09:55:17] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_108_R2-trim.fastq.gz writer finished 
+[09:55:17] start to generate reports
+ 
+Read1 before filtering:
+total reads: 26055453
+total bases: 3934373403
+Q20 bases: 3778831685(96.0466%)
+Q30 bases: 3598426653(91.4612%)
+
+Read2 before filtering:
+total reads: 26055453
+total bases: 3934373403
+Q20 bases: 3666979385(93.2036%)
+Q30 bases: 3405893493(86.5676%)
+
+Read1 after filtering:
+total reads: 25001121
+total bases: 3753805840
+Q20 bases: 3643979973(97.0743%)
+Q30 bases: 3491700924(93.0176%)
+
+Read2 after filtering:
+total reads: 25001121
+total bases: 3753370237
+Q20 bases: 3564906276(94.9788%)
+Q30 bases: 3338916809(88.9578%)
+
+Filtering result:
+reads passed filter: 50002242
+reads failed due to low quality: 1798214
+reads failed due to too many N: 8726
+reads failed due to too short: 301724
+reads with adapter trimmed: 1376945
+bases trimmed due to adapters: 69850690
+
+Duplication rate: 5.01122%
+
+Insert size peak (evaluated by paired-end reads): 270
+
+JSON report: P12002_108-fastp.json
+HTML report: P12002_108-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_108_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_108_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_108_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_108_R2-trim.fastq.gz --html P12002_108-fastp.html --json P12002_108-fastp.json --report_title P12002_108 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 220 seconds
+Detecting adapter sequence for read1...
+>Illumina TruSeq Adapter Read 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[09:55:39] start to load data of read2 
+[09:55:39] start to load data of read1 
+[09:55:47] Read1: loaded 1M reads 
+[09:55:47] Read2: loaded 1M reads 
+[09:55:54] Read1: loaded 2M reads 
+[09:55:54] Read2: loaded 2M reads 
+[09:56:01] Read1: loaded 3M reads 
+[09:56:01] Read2: loaded 3M reads 
+[09:56:08] Read1: loaded 4M reads 
+[09:56:08] Read2: loaded 4M reads 
+[09:56:15] Read2: loaded 5M reads 
+[09:56:15] Read1: loaded 5M reads 
+[09:56:21] Read1: loaded 6M reads 
+[09:56:21] Read2: loaded 6M reads 
+[09:56:28] Read2: loaded 7M reads 
+[09:56:28] Read1: loaded 7M reads 
+[09:56:35] Read2: loaded 8M reads 
+[09:56:35] Read1: loaded 8M reads 
+[09:56:43] Read2: loaded 9M reads 
+[09:56:43] Read1: loaded 9M reads 
+[09:56:50] Read1: loaded 10M reads 
+[09:56:50] Read2: loaded 10M reads 
+[09:56:56] Read1: loaded 11M reads 
+[09:56:56] Read2: loaded 11M reads 
+[09:57:03] Read2: loaded 12M reads 
+[09:57:03] Read1: loaded 12M reads 
+[09:57:11] Read1: loaded 13M reads 
+[09:57:11] Read2: loaded 13M reads 
+[09:57:18] Read1: loaded 14M reads 
+[09:57:18] Read2: loaded 14M reads 
+[09:57:24] Read1: loaded 15M reads 
+[09:57:24] Read2: loaded 15M reads 
+[09:57:31] Read2: loaded 16M reads 
+[09:57:31] Read1: loaded 16M reads 
+[09:57:39] Read1: loaded 17M reads 
+[09:57:40] Read2: loaded 17M reads 
+[09:57:46] Read2: loaded 18M reads 
+[09:57:46] Read1: loaded 18M reads 
+[09:57:52] Read1: loaded 19M reads 
+[09:57:52] Read2: loaded 19M reads 
+[09:58:00] Read1: loaded 20M reads 
+[09:58:00] Read2: loaded 20M reads 
+[09:58:07] Read2: loaded 21M reads 
+[09:58:07] Read1: loaded 21M reads 
+[09:58:14] Read2: loaded 22M reads 
+[09:58:14] Read1: loaded 22M reads 
+[09:58:23] Read1: loaded 23M reads 
+[09:58:23] Read2: loaded 23M reads 
+[09:58:29] Read1: loaded 24M reads 
+[09:58:29] Read2: loaded 24M reads 
+[09:58:36] Read1: loaded 25M reads 
+[09:58:36] Read2: loaded 25M reads 
+[09:58:43] Read1: loaded 26M reads 
+[09:58:43] Read2: loaded 26M reads 
+[09:58:50] Read1: loaded 27M reads 
+[09:58:50] Read2: loaded 27M reads 
+[09:58:57] Read2: loaded 28M reads 
+[09:58:57] Read1: loaded 28M reads 
+[09:59:04] Read1: loaded 29M reads 
+[09:59:04] Read2: loaded 29M reads 
+[09:59:11] Read1: loaded 30M reads 
+[09:59:11] Read2: loaded 30M reads 
+[09:59:19] Read1: loaded 31M reads 
+[09:59:19] Read2: loaded 31M reads 
+[09:59:26] Read1: loaded 32M reads 
+[09:59:26] Read2: loaded 32M reads 
+[09:59:32] Read2: loaded 33M reads 
+[09:59:32] Read1: loaded 33M reads 
+[09:59:40] Read2: loaded 34M reads 
+[09:59:40] Read1: loaded 34M reads 
+[09:59:46] Read1: loaded 35M reads 
+[09:59:46] Read2: loaded 35M reads 
+[09:59:52] Read2: loading completed with 35906 packs 
+[09:59:52] Read1: loading completed with 35906 packs 
+[09:59:53] thread 5 data processing completed 
+[09:59:53] thread 5 finished 
+[09:59:53] thread 2 data processing completed 
+[09:59:53] thread 2 finished 
+[09:59:53] thread 8 data processing completed 
+[09:59:53] thread 8 finished 
+[09:59:54] thread 1 data processing completed 
+[09:59:54] thread 1 finished 
+[09:59:55] thread 3 data processing completed 
+[09:59:55] thread 3 finished 
+[09:59:56] thread 4 data processing completed 
+[09:59:56] thread 4 finished 
+[09:59:57] thread 6 data processing completed 
+[09:59:57] thread 6 finished 
+[09:59:57] thread 7 data processing completed 
+[09:59:57] thread 7 finished 
+[09:59:57] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_109_R1-trim.fastq.gz writer finished 
+[09:59:57] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_109_R2-trim.fastq.gz writer finished 
+[09:59:57] start to generate reports
+ 
+Read1 before filtering:
+total reads: 35905988
+total bases: 5421804188
+Q20 bases: 5099603079(94.0573%)
+Q30 bases: 4823644746(88.9675%)
+
+Read2 before filtering:
+total reads: 35905988
+total bases: 5421804188
+Q20 bases: 4947026969(91.2432%)
+Q30 bases: 4562254154(84.1464%)
+
+Read1 after filtering:
+total reads: 31808051
+total bases: 4791271793
+Q20 bases: 4628029953(96.5929%)
+Q30 bases: 4417099301(92.1905%)
+
+Read2 after filtering:
+total reads: 31808051
+total bases: 4787557069
+Q20 bases: 4530456156(94.6298%)
+Q30 bases: 4229652348(88.3468%)
+
+Filtering result:
+reads passed filter: 63616102
+reads failed due to low quality: 2492810
+reads failed due to too many N: 24090
+reads failed due to too short: 5678974
+reads with adapter trimmed: 4640146
+bases trimmed due to adapters: 156743732
+
+Duplication rate: 1.73884%
+
+Insert size peak (evaluated by paired-end reads): 270
+
+JSON report: P12002_109-fastp.json
+HTML report: P12002_109-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_109_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_109_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_109_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_109_R2-trim.fastq.gz --html P12002_109-fastp.html --json P12002_109-fastp.json --report_title P12002_109 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 279 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+>Illumina TruSeq Adapter Read 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[10:00:25] start to load data of read2 
+[10:00:25] start to load data of read1 
+[10:00:32] Read2: loaded 1M reads 
+[10:00:32] Read1: loaded 1M reads 
+[10:00:40] Read1: loaded 2M reads 
+[10:00:40] Read2: loaded 2M reads 
+[10:00:46] Read2: loaded 3M reads 
+[10:00:46] Read1: loaded 3M reads 
+[10:00:53] Read2: loaded 4M reads 
+[10:00:53] Read1: loaded 4M reads 
+[10:00:59] Read2: loaded 5M reads 
+[10:00:59] Read1: loaded 5M reads 
+[10:01:06] Read2: loaded 6M reads 
+[10:01:06] Read1: loaded 6M reads 
+[10:01:12] Read2: loaded 7M reads 
+[10:01:12] Read1: loaded 7M reads 
+[10:01:19] Read1: loaded 8M reads 
+[10:01:19] Read2: loaded 8M reads 
+[10:01:25] Read1: loaded 9M reads 
+[10:01:25] Read2: loaded 9M reads 
+[10:01:32] Read1: loaded 10M reads 
+[10:01:32] Read2: loaded 10M reads 
+[10:01:39] Read1: loaded 11M reads 
+[10:01:39] Read2: loaded 11M reads 
+[10:01:46] Read1: loaded 12M reads 
+[10:01:46] Read2: loaded 12M reads 
+[10:01:54] Read1: loaded 13M reads 
+[10:01:54] Read2: loaded 13M reads 
+[10:02:00] Read2: loaded 14M reads 
+[10:02:01] Read1: loaded 14M reads 
+[10:02:07] Read1: loaded 15M reads 
+[10:02:08] Read2: loaded 15M reads 
+[10:02:16] Read2: loaded 16M reads 
+[10:02:17] Read1: loaded 16M reads 
+[10:02:23] Read1: loaded 17M reads 
+[10:02:23] Read2: loaded 17M reads 
+[10:02:29] Read1: loaded 18M reads 
+[10:02:29] Read2: loaded 18M reads 
+[10:02:35] Read1: loaded 19M reads 
+[10:02:35] Read2: loaded 19M reads 
+[10:02:44] Read2: loaded 20M reads 
+[10:02:44] Read1: loaded 20M reads 
+[10:02:51] Read1: loaded 21M reads 
+[10:02:51] Read2: loaded 21M reads 
+[10:02:57] Read1: loaded 22M reads 
+[10:02:57] Read2: loaded 22M reads 
+[10:03:05] Read2: loaded 23M reads 
+[10:03:05] Read1: loaded 23M reads 
+[10:03:13] Read2: loaded 24M reads 
+[10:03:14] Read1: loaded 24M reads 
+[10:03:20] Read2: loaded 25M reads 
+[10:03:20] Read1: loaded 25M reads 
+[10:03:27] Read2: loaded 26M reads 
+[10:03:27] Read1: loaded 26M reads 
+[10:03:34] Read2: loaded 27M reads 
+[10:03:34] Read1: loaded 27M reads 
+[10:03:41] Read1: loaded 28M reads 
+[10:03:42] Read2: loaded 28M reads 
+[10:03:49] Read1: loaded 29M reads 
+[10:03:49] Read2: loaded 29M reads 
+[10:03:55] Read2: loaded 30M reads 
+[10:03:56] Read1: loaded 30M reads 
+[10:04:03] Read1: loaded 31M reads 
+[10:04:03] Read2: loaded 31M reads 
+[10:04:09] Read2: loaded 32M reads 
+[10:04:09] Read1: loaded 32M reads 
+[10:04:16] Read2: loaded 33M reads 
+[10:04:17] Read1: loaded 33M reads 
+[10:04:20] Read1: loading completed with 33279 packs 
+[10:04:20] Read2: loading completed with 33279 packs 
+[10:04:21] thread 5 data processing completed 
+[10:04:21] thread 5 finished 
+[10:04:21] thread 1 data processing completed 
+[10:04:21] thread 1 finished 
+[10:04:21] thread 6 data processing completed 
+[10:04:21] thread 6 finished 
+[10:04:21] thread 3 data processing completed 
+[10:04:21] thread 3 finished 
+[10:04:21] thread 7 data processing completed 
+[10:04:21] thread 7 finished 
+[10:04:21] thread 2 data processing completed 
+[10:04:21] thread 2 finished 
+[10:04:21] thread 4 data processing completed 
+[10:04:21] thread 4 finished 
+[10:04:22] thread 8 data processing completed 
+[10:04:22] thread 8 finished 
+[10:04:22] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_110_R1-trim.fastq.gz writer finished 
+[10:04:23] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_110_R2-trim.fastq.gz writer finished 
+[10:04:23] start to generate reports
+ 
+Read1 before filtering:
+total reads: 33278178
+total bases: 5025004878
+Q20 bases: 4821911462(95.9583%)
+Q30 bases: 4598804534(91.5184%)
+
+Read2 before filtering:
+total reads: 33278178
+total bases: 5025004878
+Q20 bases: 4677032837(93.0752%)
+Q30 bases: 4343674232(86.4412%)
+
+Read1 after filtering:
+total reads: 31336017
+total bases: 4731426925
+Q20 bases: 4574295983(96.679%)
+Q30 bases: 4371263199(92.3878%)
+
+Read2 after filtering:
+total reads: 31336017
+total bases: 4723410540
+Q20 bases: 4480914417(94.8661%)
+Q30 bases: 4193203651(88.7749%)
+
+Filtering result:
+reads passed filter: 62672034
+reads failed due to low quality: 2756810
+reads failed due to too many N: 16276
+reads failed due to too short: 1111236
+reads with adapter trimmed: 804390
+bases trimmed due to adapters: 27868892
+
+Duplication rate: 0.388155%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P12002_110-fastp.json
+HTML report: P12002_110-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_110_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P12002_110_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_110_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_110_R2-trim.fastq.gz --html P12002_110-fastp.html --json P12002_110-fastp.json --report_title P12002_110 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 266 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[10:04:56] start to load data of read1 
+[10:04:56] start to load data of read2 
+[10:05:03] Read1: loaded 1M reads 
+[10:05:03] Read2: loaded 1M reads 
+[10:05:10] Read2: loaded 2M reads 
+[10:05:10] Read1: loaded 2M reads 
+[10:05:16] Read2: loaded 3M reads 
+[10:05:16] Read1: loaded 3M reads 
+[10:05:21] Read2: loaded 4M reads 
+[10:05:21] Read1: loaded 4M reads 
+[10:05:27] Read2: loaded 5M reads 
+[10:05:27] Read1: loaded 5M reads 
+[10:05:33] Read2: loaded 6M reads 
+[10:05:33] Read1: loaded 6M reads 
+[10:05:39] Read1: loaded 7M reads 
+[10:05:39] Read2: loaded 7M reads 
+[10:05:45] Read2: loaded 8M reads 
+[10:05:45] Read1: loaded 8M reads 
+[10:05:52] Read2: loaded 9M reads 
+[10:05:52] Read1: loaded 9M reads 
+[10:05:59] Read2: loaded 10M reads 
+[10:05:59] Read1: loaded 10M reads 
+[10:06:04] Read2: loaded 11M reads 
+[10:06:04] Read1: loaded 11M reads 
+[10:06:11] Read2: loaded 12M reads 
+[10:06:12] Read1: loaded 12M reads 
+[10:06:20] Read2: loaded 13M reads 
+[10:06:20] Read1: loaded 13M reads 
+[10:06:26] Read1: loaded 14M reads 
+[10:06:27] Read2: loaded 14M reads 
+[10:06:32] Read2: loaded 15M reads 
+[10:06:32] Read1: loaded 15M reads 
+[10:06:39] Read2: loaded 16M reads 
+[10:06:39] Read1: loaded 16M reads 
+[10:06:46] Read1: loaded 17M reads 
+[10:06:47] Read2: loaded 17M reads 
+[10:06:54] Read1: loaded 18M reads 
+[10:06:55] Read2: loaded 18M reads 
+[10:07:01] Read2: loaded 19M reads 
+[10:07:01] Read1: loaded 19M reads 
+[10:07:07] Read2: loaded 20M reads 
+[10:07:07] Read1: loaded 20M reads 
+[10:07:13] Read2: loaded 21M reads 
+[10:07:13] Read1: loaded 21M reads 
+[10:07:19] Read1: loaded 22M reads 
+[10:07:19] Read2: loaded 22M reads 
+[10:07:25] Read2: loaded 23M reads 
+[10:07:25] Read1: loaded 23M reads 
+[10:07:32] Read2: loaded 24M reads 
+[10:07:32] Read1: loaded 24M reads 
+[10:07:39] Read1: loaded 25M reads 
+[10:07:39] Read2: loaded 25M reads 
+[10:07:45] Read2: loaded 26M reads 
+[10:07:45] Read1: loaded 26M reads 
+[10:07:51] Read1: loaded 27M reads 
+[10:07:51] Read2: loaded 27M reads 
+[10:07:57] Read2: loaded 28M reads 
+[10:07:57] Read1: loaded 28M reads 
+[10:08:03] Read2: loaded 29M reads 
+[10:08:03] Read1: loaded 29M reads 
+[10:08:10] Read1: loaded 30M reads 
+[10:08:10] Read2: loaded 30M reads 
+[10:08:15] Read1: loaded 31M reads 
+[10:08:15] Read2: loaded 31M reads 
+[10:08:23] Read2: loaded 32M reads 
+[10:08:24] Read1: loaded 32M reads 
+[10:08:30] Read2: loaded 33M reads 
+[10:08:30] Read1: loaded 33M reads 
+[10:08:34] Read2: loaded 34M reads 
+[10:08:34] Read1: loaded 34M reads 
+[10:08:38] Read2: loading completed with 34522 packs 
+[10:08:38] Read1: loading completed with 34522 packs 
+[10:08:39] thread 4 data processing completed 
+[10:08:39] thread 4 finished 
+[10:08:39] thread 5 data processing completed 
+[10:08:39] thread 5 finished 
+[10:08:39] thread 6 data processing completed 
+[10:08:39] thread 6 finished 
+[10:08:40] thread 7 data processing completed 
+[10:08:40] thread 7 finished 
+[10:08:40] thread 1 data processing completed 
+[10:08:40] thread 1 finished 
+[10:08:40] thread 8 data processing completed 
+[10:08:40] thread 8 finished 
+[10:08:40] thread 3 data processing completed 
+[10:08:40] thread 3 finished 
+[10:08:40] thread 2 data processing completed 
+[10:08:40] thread 2 finished 
+[10:08:42] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_118_R1-trim.fastq.gz writer finished 
+[10:08:42] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_118_R2-trim.fastq.gz writer finished 
+[10:08:42] start to generate reports
+ 
+Read1 before filtering:
+total reads: 34521357
+total bases: 5212724907
+Q20 bases: 5054809371(96.9706%)
+Q30 bases: 4801579742(92.1127%)
+
+Read2 before filtering:
+total reads: 34521357
+total bases: 5212724907
+Q20 bases: 5022827593(96.357%)
+Q30 bases: 4735919646(90.8531%)
+
+Read1 after filtering:
+total reads: 34010404
+total bases: 5113804038
+Q20 bases: 4973908669(97.2644%)
+Q30 bases: 4730458329(92.5037%)
+
+Read2 after filtering:
+total reads: 34010404
+total bases: 5113754001
+Q20 bases: 4955038663(96.8963%)
+Q30 bases: 4680613247(91.5299%)
+
+Filtering result:
+reads passed filter: 68020808
+reads failed due to low quality: 767382
+reads failed due to too many N: 7730
+reads failed due to too short: 246794
+reads with adapter trimmed: 1202806
+bases trimmed due to adapters: 60215839
+
+Duplication rate: 3.20885%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P14052_118-fastp.json
+HTML report: P14052_118-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_118_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_118_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_118_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_118_R2-trim.fastq.gz --html P14052_118-fastp.html --json P14052_118-fastp.json --report_title P14052_118 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 260 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[10:09:20] start to load data of read2 
+[10:09:20] start to load data of read1 
+[10:09:28] Read2: loaded 1M reads 
+[10:09:28] Read1: loaded 1M reads 
+[10:09:35] Read1: loaded 2M reads 
+[10:09:35] Read2: loaded 2M reads 
+[10:09:41] Read2: loaded 3M reads 
+[10:09:41] Read1: loaded 3M reads 
+[10:09:46] Read1: loaded 4M reads 
+[10:09:46] Read2: loaded 4M reads 
+[10:09:52] Read2: loaded 5M reads 
+[10:09:52] Read1: loaded 5M reads 
+[10:09:58] Read2: loaded 6M reads 
+[10:09:58] Read1: loaded 6M reads 
+[10:10:03] Read1: loaded 7M reads 
+[10:10:03] Read2: loaded 7M reads 
+[10:10:09] Read1: loaded 8M reads 
+[10:10:09] Read2: loaded 8M reads 
+[10:10:16] Read2: loaded 9M reads 
+[10:10:17] Read1: loaded 9M reads 
+[10:10:21] Read2: loaded 10M reads 
+[10:10:21] Read1: loaded 10M reads 
+[10:10:28] Read1: loaded 11M reads 
+[10:10:28] Read2: loaded 11M reads 
+[10:10:33] Read1: loaded 12M reads 
+[10:10:33] Read2: loaded 12M reads 
+[10:10:39] Read2: loaded 13M reads 
+[10:10:40] Read1: loaded 13M reads 
+[10:10:47] Read1: loaded 14M reads 
+[10:10:47] Read2: loaded 14M reads 
+[10:10:52] Read1: loaded 15M reads 
+[10:10:53] Read2: loaded 15M reads 
+[10:10:57] Read1: loaded 16M reads 
+[10:10:57] Read2: loaded 16M reads 
+[10:11:03] Read2: loaded 17M reads 
+[10:11:03] Read1: loaded 17M reads 
+[10:11:10] Read1: loaded 18M reads 
+[10:11:10] Read2: loaded 18M reads 
+[10:11:15] Read1: loaded 19M reads 
+[10:11:15] Read2: loaded 19M reads 
+[10:11:22] Read1: loaded 20M reads 
+[10:11:23] Read2: loaded 20M reads 
+[10:11:28] Read1: loaded 21M reads 
+[10:11:28] Read2: loaded 21M reads 
+[10:11:35] Read1: loaded 22M reads 
+[10:11:35] Read2: loaded 22M reads 
+[10:11:41] Read2: loaded 23M reads 
+[10:11:41] Read1: loaded 23M reads 
+[10:11:48] Read1: loaded 24M reads 
+[10:11:48] Read2: loaded 24M reads 
+[10:11:54] Read1: loaded 25M reads 
+[10:11:54] Read2: loaded 25M reads 
+[10:12:02] Read1: loaded 26M reads 
+[10:12:02] Read2: loaded 26M reads 
+[10:12:08] Read1: loaded 27M reads 
+[10:12:08] Read2: loaded 27M reads 
+[10:12:14] Read2: loaded 28M reads 
+[10:12:14] Read1: loaded 28M reads 
+[10:12:21] Read1: loaded 29M reads 
+[10:12:21] Read2: loaded 29M reads 
+[10:12:26] Read2: loaded 30M reads 
+[10:12:26] Read1: loaded 30M reads 
+[10:12:32] Read1: loaded 31M reads 
+[10:12:32] Read2: loaded 31M reads 
+[10:12:38] Read1: loaded 32M reads 
+[10:12:38] Read2: loaded 32M reads 
+[10:12:45] Read1: loaded 33M reads 
+[10:12:46] Read2: loaded 33M reads 
+[10:12:52] Read1: loaded 34M reads 
+[10:12:52] Read2: loaded 34M reads 
+[10:12:57] Read2: loaded 35M reads 
+[10:12:57] Read1: loaded 35M reads 
+[10:13:04] Read1: loading completed with 35667 packs 
+[10:13:04] Read2: loading completed with 35667 packs 
+[10:13:04] thread 3 data processing completed 
+[10:13:04] thread 3 finished 
+[10:13:04] thread 1 data processing completed 
+[10:13:04] thread 1 finished 
+[10:13:04] thread 8 data processing completed 
+[10:13:04] thread 8 finished 
+[10:13:05] thread 7 data processing completed 
+[10:13:05] thread 7 finished 
+[10:13:05] thread 5 data processing completed 
+[10:13:05] thread 5 finished 
+[10:13:05] thread 4 data processing completed 
+[10:13:05] thread 4 finished 
+[10:13:05] thread 6 data processing completed 
+[10:13:05] thread 6 finished 
+[10:13:05] thread 2 data processing completed 
+[10:13:05] thread 2 finished 
+[10:13:07] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_119_R2-trim.fastq.gz writer finished 
+[10:13:07] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_119_R1-trim.fastq.gz writer finished 
+[10:13:07] start to generate reports
+ 
+Read1 before filtering:
+total reads: 35666564
+total bases: 5385651164
+Q20 bases: 5222144475(96.964%)
+Q30 bases: 4958757855(92.0735%)
+
+Read2 before filtering:
+total reads: 35666564
+total bases: 5385651164
+Q20 bases: 5213071601(96.7956%)
+Q30 bases: 4944679164(91.8121%)
+
+Read1 after filtering:
+total reads: 35137094
+total bases: 5284729839
+Q20 bases: 5139308313(97.2483%)
+Q30 bases: 4885576209(92.447%)
+
+Read2 after filtering:
+total reads: 35137094
+total bases: 5284740017
+Q20 bases: 5143627767(97.3298%)
+Q30 bases: 4887628121(92.4857%)
+
+Filtering result:
+reads passed filter: 70274188
+reads failed due to low quality: 780640
+reads failed due to too many N: 7918
+reads failed due to too short: 270382
+reads with adapter trimmed: 1122112
+bases trimmed due to adapters: 59148806
+
+Duplication rate: 3.68901%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P14052_119-fastp.json
+HTML report: P14052_119-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_119_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_119_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_119_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_119_R2-trim.fastq.gz --html P14052_119-fastp.html --json P14052_119-fastp.json --report_title P14052_119 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 264 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[10:13:41] start to load data of read1 
+[10:13:41] start to load data of read2 
+[10:13:49] Read2: loaded 1M reads 
+[10:13:49] Read1: loaded 1M reads 
+[10:13:55] Read1: loaded 2M reads 
+[10:13:55] Read2: loaded 2M reads 
+[10:14:01] Read1: loaded 3M reads 
+[10:14:01] Read2: loaded 3M reads 
+[10:14:07] Read2: loaded 4M reads 
+[10:14:07] Read1: loaded 4M reads 
+[10:14:13] Read1: loaded 5M reads 
+[10:14:13] Read2: loaded 5M reads 
+[10:14:19] Read1: loaded 6M reads 
+[10:14:19] Read2: loaded 6M reads 
+[10:14:25] Read2: loaded 7M reads 
+[10:14:25] Read1: loaded 7M reads 
+[10:14:30] Read1: loaded 8M reads 
+[10:14:30] Read2: loaded 8M reads 
+[10:14:36] Read1: loaded 9M reads 
+[10:14:36] Read2: loaded 9M reads 
+[10:14:42] Read1: loaded 10M reads 
+[10:14:42] Read2: loaded 10M reads 
+[10:14:48] Read2: loaded 11M reads 
+[10:14:48] Read1: loaded 11M reads 
+[10:14:54] Read1: loaded 12M reads 
+[10:14:54] Read2: loaded 12M reads 
+[10:15:00] Read2: loaded 13M reads 
+[10:15:00] Read1: loaded 13M reads 
+[10:15:06] Read1: loaded 14M reads 
+[10:15:06] Read2: loaded 14M reads 
+[10:15:12] Read1: loaded 15M reads 
+[10:15:12] Read2: loaded 15M reads 
+[10:15:17] Read1: loaded 16M reads 
+[10:15:17] Read2: loaded 16M reads 
+[10:15:24] Read2: loaded 17M reads 
+[10:15:24] Read1: loaded 17M reads 
+[10:15:29] Read1: loaded 18M reads 
+[10:15:29] Read2: loaded 18M reads 
+[10:15:35] Read1: loaded 19M reads 
+[10:15:35] Read2: loaded 19M reads 
+[10:15:40] Read1: loaded 20M reads 
+[10:15:40] Read2: loaded 20M reads 
+[10:15:46] Read1: loaded 21M reads 
+[10:15:46] Read2: loaded 21M reads 
+[10:15:53] Read2: loaded 22M reads 
+[10:15:54] Read1: loaded 22M reads 
+[10:15:59] Read2: loaded 23M reads 
+[10:16:00] Read1: loaded 23M reads 
+[10:16:05] Read2: loaded 24M reads 
+[10:16:06] Read1: loaded 24M reads 
+[10:16:11] Read2: loaded 25M reads 
+[10:16:11] Read1: loaded 25M reads 
+[10:16:17] Read2: loaded 26M reads 
+[10:16:17] Read1: loaded 26M reads 
+[10:16:23] Read1: loaded 27M reads 
+[10:16:24] Read2: loaded 27M reads 
+[10:16:29] Read1: loaded 28M reads 
+[10:16:29] Read2: loaded 28M reads 
+[10:16:36] Read1: loaded 29M reads 
+[10:16:36] Read2: loaded 29M reads 
+[10:16:42] Read1: loaded 30M reads 
+[10:16:43] Read2: loaded 30M reads 
+[10:16:49] Read1: loaded 31M reads 
+[10:16:49] Read2: loaded 31M reads 
+[10:16:55] Read2: loaded 32M reads 
+[10:16:55] Read1: loaded 32M reads 
+[10:17:01] Read2: loaded 33M reads 
+[10:17:01] Read1: loaded 33M reads 
+[10:17:07] Read2: loaded 34M reads 
+[10:17:07] Read1: loaded 34M reads 
+[10:17:15] Read2: loaded 35M reads 
+[10:17:15] Read1: loaded 35M reads 
+[10:17:21] Read1: loaded 36M reads 
+[10:17:22] Read2: loaded 36M reads 
+[10:17:26] Read1: loading completed with 36894 packs 
+[10:17:26] Read2: loading completed with 36894 packs 
+[10:17:27] thread 4 data processing completed 
+[10:17:27] thread 4 finished 
+[10:17:27] thread 3 data processing completed 
+[10:17:27] thread 3 finished 
+[10:17:28] thread 7 data processing completed 
+[10:17:28] thread 7 finished 
+[10:17:29] thread 6 data processing completed 
+[10:17:29] thread 6 finished 
+[10:17:29] thread 8 data processing completed 
+[10:17:29] thread 8 finished 
+[10:17:29] thread 2 data processing completed 
+[10:17:29] thread 2 finished 
+[10:17:29] thread 1 data processing completed 
+[10:17:29] thread 1 finished 
+[10:17:30] thread 5 data processing completed 
+[10:17:30] thread 5 finished 
+[10:17:30] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_120_R1-trim.fastq.gz writer finished 
+[10:17:31] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_120_R2-trim.fastq.gz writer finished 
+[10:17:31] start to generate reports
+ 
+Read1 before filtering:
+total reads: 36893397
+total bases: 5570902947
+Q20 bases: 5402204578(96.9718%)
+Q30 bases: 5128745535(92.0631%)
+
+Read2 before filtering:
+total reads: 36893397
+total bases: 5570902947
+Q20 bases: 5392447159(96.7966%)
+Q30 bases: 5111415526(91.752%)
+
+Read1 after filtering:
+total reads: 36377405
+total bases: 5471807973
+Q20 bases: 5321358069(97.2505%)
+Q30 bases: 5057554579(92.4293%)
+
+Read2 after filtering:
+total reads: 36377405
+total bases: 5471869903
+Q20 bases: 5323319334(97.2852%)
+Q30 bases: 5054257885(92.368%)
+
+Filtering result:
+reads passed filter: 72754810
+reads failed due to low quality: 756606
+reads failed due to too many N: 8230
+reads failed due to too short: 267148
+reads with adapter trimmed: 1124268
+bases trimmed due to adapters: 59852027
+
+Duplication rate: 3.63881%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P14052_120-fastp.json
+HTML report: P14052_120-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_120_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_120_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_120_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_120_R2-trim.fastq.gz --html P14052_120-fastp.html --json P14052_120-fastp.json --report_title P14052_120 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 263 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[10:18:06] start to load data of read1 
+[10:18:06] start to load data of read2 
+[10:18:14] Read2: loaded 1M reads 
+[10:18:14] Read1: loaded 1M reads 
+[10:18:21] Read1: loaded 2M reads 
+[10:18:21] Read2: loaded 2M reads 
+[10:18:27] Read2: loaded 3M reads 
+[10:18:27] Read1: loaded 3M reads 
+[10:18:34] Read1: loaded 4M reads 
+[10:18:34] Read2: loaded 4M reads 
+[10:18:40] Read2: loaded 5M reads 
+[10:18:40] Read1: loaded 5M reads 
+[10:18:46] Read2: loaded 6M reads 
+[10:18:46] Read1: loaded 6M reads 
+[10:18:51] Read2: loaded 7M reads 
+[10:18:51] Read1: loaded 7M reads 
+[10:18:57] Read1: loaded 8M reads 
+[10:18:57] Read2: loaded 8M reads 
+[10:19:03] Read2: loaded 9M reads 
+[10:19:03] Read1: loaded 9M reads 
+[10:19:10] Read2: loaded 10M reads 
+[10:19:10] Read1: loaded 10M reads 
+[10:19:16] Read1: loaded 11M reads 
+[10:19:16] Read2: loaded 11M reads 
+[10:19:23] Read1: loaded 12M reads 
+[10:19:23] Read2: loaded 12M reads 
+[10:19:28] Read1: loaded 13M reads 
+[10:19:28] Read2: loaded 13M reads 
+[10:19:34] Read1: loaded 14M reads 
+[10:19:34] Read2: loaded 14M reads 
+[10:19:41] Read1: loaded 15M reads 
+[10:19:41] Read2: loaded 15M reads 
+[10:19:47] Read1: loaded 16M reads 
+[10:19:47] Read2: loaded 16M reads 
+[10:19:52] Read2: loaded 17M reads 
+[10:19:54] Read1: loaded 17M reads 
+[10:19:59] Read1: loaded 18M reads 
+[10:20:00] Read2: loaded 18M reads 
+[10:20:05] Read1: loaded 19M reads 
+[10:20:05] Read2: loaded 19M reads 
+[10:20:11] Read1: loaded 20M reads 
+[10:20:12] Read2: loaded 20M reads 
+[10:20:18] Read1: loaded 21M reads 
+[10:20:19] Read2: loaded 21M reads 
+[10:20:25] Read1: loaded 22M reads 
+[10:20:25] Read2: loaded 22M reads 
+[10:20:31] Read2: loaded 23M reads 
+[10:20:31] Read1: loaded 23M reads 
+[10:20:37] Read2: loaded 24M reads 
+[10:20:38] Read1: loaded 24M reads 
+[10:20:42] Read1: loaded 25M reads 
+[10:20:42] Read2: loaded 25M reads 
+[10:20:49] Read1: loaded 26M reads 
+[10:20:49] Read2: loaded 26M reads 
+[10:20:54] Read2: loaded 27M reads 
+[10:20:54] Read1: loaded 27M reads 
+[10:21:00] Read1: loaded 28M reads 
+[10:21:00] Read2: loaded 28M reads 
+[10:21:08] Read2: loaded 29M reads 
+[10:21:08] Read1: loaded 29M reads 
+[10:21:14] Read2: loaded 30M reads 
+[10:21:14] Read1: loaded 30M reads 
+[10:21:19] Read2: loaded 31M reads 
+[10:21:19] Read1: loaded 31M reads 
+[10:21:25] Read1: loaded 32M reads 
+[10:21:26] Read2: loaded 32M reads 
+[10:21:32] Read1: loaded 33M reads 
+[10:21:32] Read2: loaded 33M reads 
+[10:21:38] Read1: loaded 34M reads 
+[10:21:39] Read2: loaded 34M reads 
+[10:21:44] Read2: loaded 35M reads 
+[10:21:44] Read1: loaded 35M reads 
+[10:21:50] Read2: loaded 36M reads 
+[10:21:51] Read1: loaded 36M reads 
+[10:21:58] Read1: loading completed with 36919 packs 
+[10:21:58] Read2: loading completed with 36919 packs 
+[10:21:58] thread 8 data processing completed 
+[10:21:58] thread 8 finished 
+[10:21:58] thread 7 data processing completed 
+[10:21:58] thread 7 finished 
+[10:21:58] thread 2 data processing completed 
+[10:21:58] thread 2 finished 
+[10:21:58] thread 5 data processing completed 
+[10:21:58] thread 5 finished 
+[10:21:59] thread 3 data processing completed 
+[10:21:59] thread 3 finished 
+[10:21:59] thread 1 data processing completed 
+[10:21:59] thread 1 finished 
+[10:21:59] thread 4 data processing completed 
+[10:21:59] thread 4 finished 
+[10:21:59] thread 6 data processing completed 
+[10:21:59] thread 6 finished 
+[10:22:00] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_121_R1-trim.fastq.gz writer finished 
+[10:22:01] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_121_R2-trim.fastq.gz writer finished 
+[10:22:01] start to generate reports
+ 
+Read1 before filtering:
+total reads: 36918292
+total bases: 5574662092
+Q20 bases: 5406705647(96.9871%)
+Q30 bases: 5134191665(92.0987%)
+
+Read2 before filtering:
+total reads: 36918292
+total bases: 5574662092
+Q20 bases: 5393695561(96.7538%)
+Q30 bases: 5109301315(91.6522%)
+
+Read1 after filtering:
+total reads: 36371866
+total bases: 5470622741
+Q20 bases: 5321260841(97.2697%)
+Q30 bases: 5058775702(92.4717%)
+
+Read2 after filtering:
+total reads: 36371866
+total bases: 5470785332
+Q20 bases: 5320801046(97.2585%)
+Q30 bases: 5049143839(92.2929%)
+
+Filtering result:
+reads passed filter: 72743732
+reads failed due to low quality: 789142
+reads failed due to too many N: 8300
+reads failed due to too short: 295410
+reads with adapter trimmed: 1134352
+bases trimmed due to adapters: 59693742
+
+Duplication rate: 3.54472%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P14052_121-fastp.json
+HTML report: P14052_121-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_121_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_121_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_121_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_121_R2-trim.fastq.gz --html P14052_121-fastp.html --json P14052_121-fastp.json --report_title P14052_121 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 271 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[10:22:35] start to load data of read2 
+[10:22:35] start to load data of read1 
+[10:22:43] Read2: loaded 1M reads 
+[10:22:43] Read1: loaded 1M reads 
+[10:22:49] Read2: loaded 2M reads 
+[10:22:49] Read1: loaded 2M reads 
+[10:22:55] Read1: loaded 3M reads 
+[10:22:55] Read2: loaded 3M reads 
+[10:23:01] Read2: loaded 4M reads 
+[10:23:01] Read1: loaded 4M reads 
+[10:23:06] Read2: loaded 5M reads 
+[10:23:06] Read1: loaded 5M reads 
+[10:23:12] Read1: loaded 6M reads 
+[10:23:12] Read2: loaded 6M reads 
+[10:23:17] Read1: loaded 7M reads 
+[10:23:17] Read2: loaded 7M reads 
+[10:23:23] Read1: loaded 8M reads 
+[10:23:23] Read2: loaded 8M reads 
+[10:23:30] Read2: loaded 9M reads 
+[10:23:30] Read1: loaded 9M reads 
+[10:23:36] Read1: loaded 10M reads 
+[10:23:36] Read2: loaded 10M reads 
+[10:23:40] Read1: loaded 11M reads 
+[10:23:40] Read2: loaded 11M reads 
+[10:23:47] Read2: loaded 12M reads 
+[10:23:47] Read1: loaded 12M reads 
+[10:23:52] Read2: loaded 13M reads 
+[10:23:52] Read1: loaded 13M reads 
+[10:23:58] Read1: loaded 14M reads 
+[10:23:58] Read2: loaded 14M reads 
+[10:24:04] Read2: loaded 15M reads 
+[10:24:04] Read1: loaded 15M reads 
+[10:24:10] Read1: loaded 16M reads 
+[10:24:10] Read2: loaded 16M reads 
+[10:24:16] Read2: loaded 17M reads 
+[10:24:16] Read1: loaded 17M reads 
+[10:24:22] Read2: loaded 18M reads 
+[10:24:23] Read1: loaded 18M reads 
+[10:24:29] Read2: loaded 19M reads 
+[10:24:29] Read1: loaded 19M reads 
+[10:24:34] Read2: loaded 20M reads 
+[10:24:34] Read1: loaded 20M reads 
+[10:24:40] Read2: loaded 21M reads 
+[10:24:40] Read1: loaded 21M reads 
+[10:24:45] Read2: loaded 22M reads 
+[10:24:47] Read1: loaded 22M reads 
+[10:24:52] Read2: loaded 23M reads 
+[10:24:53] Read1: loaded 23M reads 
+[10:24:57] Read1: loaded 24M reads 
+[10:24:57] Read2: loaded 24M reads 
+[10:25:05] Read2: loaded 25M reads 
+[10:25:05] Read1: loaded 25M reads 
+[10:25:12] Read2: loaded 26M reads 
+[10:25:12] Read1: loaded 26M reads 
+[10:25:17] Read1: loaded 27M reads 
+[10:25:18] Read2: loaded 27M reads 
+[10:25:24] Read2: loaded 28M reads 
+[10:25:24] Read1: loaded 28M reads 
+[10:25:29] Read2: loaded 29M reads 
+[10:25:29] Read1: loaded 29M reads 
+[10:25:34] Read1: loaded 30M reads 
+[10:25:35] Read2: loaded 30M reads 
+[10:25:41] Read2: loaded 31M reads 
+[10:25:41] Read1: loaded 31M reads 
+[10:25:46] Read2: loaded 32M reads 
+[10:25:46] Read1: loaded 32M reads 
+[10:25:52] Read2: loaded 33M reads 
+[10:25:53] Read1: loaded 33M reads 
+[10:25:58] Read1: loaded 34M reads 
+[10:26:00] Read2: loaded 34M reads 
+[10:26:05] Read1: loaded 35M reads 
+[10:26:05] Read2: loaded 35M reads 
+[10:26:13] Read2: loaded 36M reads 
+[10:26:13] Read1: loaded 36M reads 
+[10:26:20] Read2: loaded 37M reads 
+[10:26:20] Read1: loaded 37M reads 
+[10:26:26] Read1: loaded 38M reads 
+[10:26:26] Read2: loaded 38M reads 
+[10:26:34] Read1: loaded 39M reads 
+[10:26:34] Read2: loaded 39M reads 
+[10:26:36] Read1: loading completed with 39431 packs 
+[10:26:37] Read2: loading completed with 39431 packs 
+[10:26:37] thread 2 data processing completed 
+[10:26:37] thread 2 finished 
+[10:26:37] thread 1 data processing completed 
+[10:26:37] thread 1 finished 
+[10:26:37] thread 4 data processing completed 
+[10:26:37] thread 4 finished 
+[10:26:38] thread 6 data processing completed 
+[10:26:38] thread 6 finished 
+[10:26:38] thread 8 data processing completed 
+[10:26:38] thread 8 finished 
+[10:26:38] thread 5 data processing completed 
+[10:26:38] thread 5 finished 
+[10:26:38] thread 7 data processing completed 
+[10:26:38] thread 7 finished 
+[10:26:38] thread 3 data processing completed 
+[10:26:38] thread 3 finished 
+[10:26:40] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_122_R2-trim.fastq.gz writer finished 
+[10:26:40] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_122_R1-trim.fastq.gz writer finished 
+[10:26:40] start to generate reports
+ 
+Read1 before filtering:
+total reads: 39430490
+total bases: 5954003990
+Q20 bases: 5775911132(97.0089%)
+Q30 bases: 5485634568(92.1335%)
+
+Read2 before filtering:
+total reads: 39430490
+total bases: 5954003990
+Q20 bases: 5768288933(96.8808%)
+Q30 bases: 5471264125(91.8922%)
+
+Read1 after filtering:
+total reads: 38919919
+total bases: 5854039366
+Q20 bases: 5694591776(97.2763%)
+Q30 bases: 5414126555(92.4853%)
+
+Read2 after filtering:
+total reads: 38919919
+total bases: 5854033971
+Q20 bases: 5697158559(97.3202%)
+Q30 bases: 5412275422(92.4538%)
+
+Filtering result:
+reads passed filter: 77839838
+reads failed due to low quality: 721412
+reads failed due to too many N: 8772
+reads failed due to too short: 290958
+reads with adapter trimmed: 1232398
+bases trimmed due to adapters: 64133272
+
+Duplication rate: 3.56513%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P14052_122-fastp.json
+HTML report: P14052_122-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_122_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_122_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_122_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_122_R2-trim.fastq.gz --html P14052_122-fastp.html --json P14052_122-fastp.json --report_title P14052_122 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 279 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[10:27:20] start to load data of read1 
+[10:27:20] start to load data of read2 
+[10:27:27] Read1: loaded 1M reads 
+[10:27:28] Read2: loaded 1M reads 
+[10:27:35] Read2: loaded 2M reads 
+[10:27:35] Read1: loaded 2M reads 
+[10:27:42] Read2: loaded 3M reads 
+[10:27:42] Read1: loaded 3M reads 
+[10:27:48] Read2: loaded 4M reads 
+[10:27:48] Read1: loaded 4M reads 
+[10:27:55] Read1: loaded 5M reads 
+[10:27:55] Read2: loaded 5M reads 
+[10:28:01] Read1: loaded 6M reads 
+[10:28:01] Read2: loaded 6M reads 
+[10:28:07] Read1: loaded 7M reads 
+[10:28:07] Read2: loaded 7M reads 
+[10:28:13] Read2: loaded 8M reads 
+[10:28:13] Read1: loaded 8M reads 
+[10:28:20] Read2: loaded 9M reads 
+[10:28:20] Read1: loaded 9M reads 
+[10:28:26] Read1: loaded 10M reads 
+[10:28:26] Read2: loaded 10M reads 
+[10:28:33] Read1: loaded 11M reads 
+[10:28:33] Read2: loaded 11M reads 
+[10:28:40] Read2: loaded 12M reads 
+[10:28:40] Read1: loaded 12M reads 
+[10:28:46] Read1: loaded 13M reads 
+[10:28:46] Read2: loaded 13M reads 
+[10:28:53] Read2: loaded 14M reads 
+[10:28:53] Read1: loaded 14M reads 
+[10:28:59] Read1: loaded 15M reads 
+[10:28:59] Read2: loaded 15M reads 
+[10:29:05] Read1: loaded 16M reads 
+[10:29:05] Read2: loaded 16M reads 
+[10:29:13] Read2: loaded 17M reads 
+[10:29:13] Read1: loaded 17M reads 
+[10:29:19] Read1: loaded 18M reads 
+[10:29:19] Read2: loaded 18M reads 
+[10:29:25] Read1: loaded 19M reads 
+[10:29:25] Read2: loaded 19M reads 
+[10:29:31] Read1: loaded 20M reads 
+[10:29:31] Read2: loaded 20M reads 
+[10:29:38] Read2: loaded 21M reads 
+[10:29:38] Read1: loaded 21M reads 
+[10:29:45] Read1: loaded 22M reads 
+[10:29:45] Read2: loaded 22M reads 
+[10:29:50] Read1: loaded 23M reads 
+[10:29:50] Read2: loaded 23M reads 
+[10:29:58] Read1: loaded 24M reads 
+[10:29:58] Read2: loaded 24M reads 
+[10:30:04] Read2: loaded 25M reads 
+[10:30:04] Read1: loaded 25M reads 
+[10:30:11] Read2: loaded 26M reads 
+[10:30:11] Read1: loaded 26M reads 
+[10:30:18] Read2: loaded 27M reads 
+[10:30:19] Read1: loaded 27M reads 
+[10:30:24] Read2: loaded 28M reads 
+[10:30:24] Read1: loaded 28M reads 
+[10:30:30] Read2: loaded 29M reads 
+[10:30:30] Read1: loaded 29M reads 
+[10:30:37] Read1: loaded 30M reads 
+[10:30:37] Read2: loaded 30M reads 
+[10:30:43] Read1: loaded 31M reads 
+[10:30:43] Read2: loaded 31M reads 
+[10:30:48] Read1: loaded 32M reads 
+[10:30:48] Read2: loaded 32M reads 
+[10:30:55] Read2: loaded 33M reads 
+[10:30:55] Read1: loaded 33M reads 
+[10:31:01] Read2: loaded 34M reads 
+[10:31:01] Read1: loaded 34M reads 
+[10:31:08] Read1: loaded 35M reads 
+[10:31:09] Read2: loaded 35M reads 
+[10:31:14] Read1: loaded 36M reads 
+[10:31:15] Read2: loaded 36M reads 
+[10:31:20] Read2: loaded 37M reads 
+[10:31:20] Read1: loaded 37M reads 
+[10:31:26] Read1: loaded 38M reads 
+[10:31:26] Read2: loaded 38M reads 
+[10:31:32] Read1: loaded 39M reads 
+[10:31:32] Read2: loaded 39M reads 
+[10:31:39] Read1: loaded 40M reads 
+[10:31:39] Read2: loaded 40M reads 
+[10:31:46] Read2: loaded 41M reads 
+[10:31:46] Read1: loaded 41M reads 
+[10:31:53] Read1: loaded 42M reads 
+[10:31:54] Read2: loaded 42M reads 
+[10:32:00] Read2: loaded 43M reads 
+[10:32:00] Read1: loaded 43M reads 
+[10:32:04] Read2: loading completed with 43744 packs 
+[10:32:05] Read1: loading completed with 43744 packs 
+[10:32:06] thread 4 data processing completed 
+[10:32:06] thread 4 finished 
+[10:32:07] thread 1 data processing completed 
+[10:32:07] thread 1 finished 
+[10:32:07] thread 3 data processing completed 
+[10:32:07] thread 3 finished 
+[10:32:07] thread 5 data processing completed 
+[10:32:07] thread 5 finished 
+[10:32:07] thread 8 data processing completed 
+[10:32:07] thread 8 finished 
+[10:32:07] thread 6 data processing completed 
+[10:32:07] thread 6 finished 
+[10:32:08] thread 2 data processing completed 
+[10:32:08] thread 2 finished 
+[10:32:08] thread 7 data processing completed 
+[10:32:08] thread 7 finished 
+[10:32:08] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_123_R1-trim.fastq.gz writer finished 
+[10:32:09] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_123_R2-trim.fastq.gz writer finished 
+[10:32:09] start to generate reports
+ 
+Read1 before filtering:
+total reads: 43743419
+total bases: 6605256269
+Q20 bases: 6405878911(96.9815%)
+Q30 bases: 6083329978(92.0983%)
+
+Read2 before filtering:
+total reads: 43743419
+total bases: 6605256269
+Q20 bases: 6402023178(96.9232%)
+Q30 bases: 6080317027(92.0527%)
+
+Read1 after filtering:
+total reads: 43122835
+total bases: 6485655345
+Q20 bases: 6307675118(97.2558%)
+Q30 bases: 5996563483(92.4589%)
+
+Read2 after filtering:
+total reads: 43122835
+total bases: 6485815661
+Q20 bases: 6318304667(97.4173%)
+Q30 bases: 6010755210(92.6754%)
+
+Filtering result:
+reads passed filter: 86245670
+reads failed due to low quality: 908636
+reads failed due to too many N: 9846
+reads failed due to too short: 322686
+reads with adapter trimmed: 1376596
+bases trimmed due to adapters: 73455911
+
+Duplication rate: 3.79026%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P14052_123-fastp.json
+HTML report: P14052_123-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_123_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_123_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_123_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_123_R2-trim.fastq.gz --html P14052_123-fastp.html --json P14052_123-fastp.json --report_title P14052_123 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 329 seconds
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+[10:32:49] start to load data of read2 
+[10:32:49] start to load data of read1 
+[10:32:57] Read1: loaded 1M reads 
+[10:32:57] Read2: loaded 1M reads 
+[10:33:05] Read2: loaded 2M reads 
+[10:33:05] Read1: loaded 2M reads 
+[10:33:11] Read1: loaded 3M reads 
+[10:33:11] Read2: loaded 3M reads 
+[10:33:17] Read1: loaded 4M reads 
+[10:33:17] Read2: loaded 4M reads 
+[10:33:23] Read1: loaded 5M reads 
+[10:33:23] Read2: loaded 5M reads 
+[10:33:30] Read1: loaded 6M reads 
+[10:33:30] Read2: loaded 6M reads 
+[10:33:36] Read1: loaded 7M reads 
+[10:33:36] Read2: loaded 7M reads 
+[10:33:43] Read1: loaded 8M reads 
+[10:33:43] Read2: loaded 8M reads 
+[10:33:49] Read2: loaded 9M reads 
+[10:33:49] Read1: loaded 9M reads 
+[10:33:56] Read1: loaded 10M reads 
+[10:33:56] Read2: loaded 10M reads 
+[10:34:03] Read2: loaded 11M reads 
+[10:34:03] Read1: loaded 11M reads 
+[10:34:10] Read1: loaded 12M reads 
+[10:34:10] Read2: loaded 12M reads 
+[10:34:16] Read2: loaded 13M reads 
+[10:34:16] Read1: loaded 13M reads 
+[10:34:22] Read1: loaded 14M reads 
+[10:34:22] Read2: loaded 14M reads 
+[10:34:29] Read2: loaded 15M reads 
+[10:34:30] Read1: loaded 15M reads 
+[10:34:37] Read1: loaded 16M reads 
+[10:34:37] Read2: loaded 16M reads 
+[10:34:44] Read2: loaded 17M reads 
+[10:34:44] Read1: loaded 17M reads 
+[10:34:49] Read1: loaded 18M reads 
+[10:34:49] Read2: loaded 18M reads 
+[10:34:58] Read2: loaded 19M reads 
+[10:34:58] Read1: loaded 19M reads 
+[10:35:04] Read1: loaded 20M reads 
+[10:35:04] Read2: loaded 20M reads 
+[10:35:11] Read2: loaded 21M reads 
+[10:35:12] Read1: loaded 21M reads 
+[10:35:18] Read1: loaded 22M reads 
+[10:35:19] Read2: loaded 22M reads 
+[10:35:24] Read1: loaded 23M reads 
+[10:35:24] Read2: loaded 23M reads 
+[10:35:31] Read1: loaded 24M reads 
+[10:35:32] Read2: loaded 24M reads 
+[10:35:37] Read1: loaded 25M reads 
+[10:35:37] Read2: loaded 25M reads 
+[10:35:44] Read1: loaded 26M reads 
+[10:35:44] Read2: loaded 26M reads 
+[10:35:50] Read2: loaded 27M reads 
+[10:35:50] Read1: loaded 27M reads 
+[10:35:57] Read2: loaded 28M reads 
+[10:35:57] Read1: loaded 28M reads 
+[10:36:05] Read1: loaded 29M reads 
+[10:36:05] Read2: loaded 29M reads 
+[10:36:12] Read1: loaded 30M reads 
+[10:36:13] Read2: loaded 30M reads 
+[10:36:19] Read2: loaded 31M reads 
+[10:36:19] Read1: loaded 31M reads 
+[10:36:25] Read1: loaded 32M reads 
+[10:36:25] Read2: loaded 32M reads 
+[10:36:32] Read1: loaded 33M reads 
+[10:36:32] Read2: loaded 33M reads 
+[10:36:39] Read1: loaded 34M reads 
+[10:36:39] Read2: loaded 34M reads 
+[10:36:46] Read2: loaded 35M reads 
+[10:36:46] Read1: loaded 35M reads 
+[10:36:51] Read1: loaded 36M reads 
+[10:36:51] Read2: loaded 36M reads 
+[10:36:59] Read1: loaded 37M reads 
+[10:37:00] Read2: loaded 37M reads 
+[10:37:06] Read2: loaded 38M reads 
+[10:37:07] Read1: loaded 38M reads 
+[10:37:12] Read2: loading completed with 38522 packs 
+[10:37:12] Read1: loading completed with 38522 packs 
+[10:37:12] thread 2 data processing completed 
+[10:37:12] thread 2 finished 
+[10:37:12] thread 3 data processing completed 
+[10:37:12] thread 3 finished 
+[10:37:12] thread 8 data processing completed 
+[10:37:12] thread 8 finished 
+[10:37:12] thread 1 data processing completed 
+[10:37:12] thread 1 finished 
+[10:37:12] thread 4 data processing completed 
+[10:37:12] thread 4 finished 
+[10:37:12] thread 6 data processing completed 
+[10:37:12] thread 6 finished 
+[10:37:13] thread 7 data processing completed 
+[10:37:13] thread 7 finished 
+[10:37:13] thread 5 data processing completed 
+[10:37:13] thread 5 finished 
+[10:37:14] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_124_R1-trim.fastq.gz writer finished 
+[10:37:15] /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_124_R2-trim.fastq.gz writer finished 
+[10:37:15] start to generate reports
+ 
+Read1 before filtering:
+total reads: 38521375
+total bases: 5816727625
+Q20 bases: 5641782643(96.9924%)
+Q30 bases: 5359535967(92.1401%)
+
+Read2 before filtering:
+total reads: 38521375
+total bases: 5816727625
+Q20 bases: 5631664409(96.8184%)
+Q30 bases: 5342003885(91.8386%)
+
+Read1 after filtering:
+total reads: 37927453
+total bases: 5703014123
+Q20 bases: 5547673069(97.2762%)
+Q30 bases: 5276081940(92.5139%)
+
+Read2 after filtering:
+total reads: 37927453
+total bases: 5702991228
+Q20 bases: 5552862553(97.3675%)
+Q30 bases: 5277199069(92.5339%)
+
+Filtering result:
+reads passed filter: 75854906
+reads failed due to low quality: 892534
+reads failed due to too many N: 8556
+reads failed due to too short: 286754
+reads with adapter trimmed: 1301940
+bases trimmed due to adapters: 66450327
+
+Duplication rate: 3.78058%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: P14052_124-fastp.json
+HTML report: P14052_124-fastp.html
+
+fastp --in1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_124_R1.fastq.gz --in2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW/P14052_124_R2.fastq.gz --out1 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_124_R1-trim.fastq.gz --out2 /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P14052_124_R2-trim.fastq.gz --html P14052_124-fastp.html --json P14052_124-fastp.json --report_title P14052_124 fastp report --thread 8 --average_qual 22 --length_required 50 --detect_adapter_for_pe --verbose --trim_poly_g --overrepresentation_analysis 
+fastp v0.23.4, time used: 305 seconds
+slurmstepd: error: *** JOB 46352417 ON r378 CANCELLED AT 2024-04-09T10:37:29 DUE TO TIME LIMIT ***
