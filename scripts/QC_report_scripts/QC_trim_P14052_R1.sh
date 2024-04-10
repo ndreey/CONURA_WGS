@@ -1,11 +1,11 @@
 #!/bin/bash
 
-#SBATCH --job-name P12002_R2_QC_raw
+#SBATCH --job-name P14052_R1_QC_raw
 #SBATCH -A naiss2024-5-1
-#SBATCH -p core -n 8
-#SBATCH -t 03:15:00
-#SBATCH --output=SLURM-%j-P12002_R2_QC_RAW.out
-#SBATCH --error=SLURM-%j-P12002_R2_QC_RAW.err
+#SBATCH -p core -n 5
+#SBATCH -t 00:35:00
+#SBATCH --output=SLURM-%j-P14052_R1_QC_TRIM-test.out
+#SBATCH --error=SLURM-%j-P14052_R1_QC_TRIM-test.err
 #SBATCH --mail-user=andbou95@gmail.com
 #SBATCH --mail-type=ALL
 
@@ -17,20 +17,20 @@ module load bioinfo-tools
 module load FastQC/0.11.9 MultiQC/1.12
 
 # Variables for R1/R2 and sequence project
-proj="P12002"
-R="R2"
+proj="P14052"
+R="R1"
 
 # FastQC run with 8 cores
-fastqc 00-RAW/${proj}*${R}* \
-    -t 8 \
-    --outdir 01-QC/fastqc_raw_${R}_${proj}
+fastqc 02-TRIM/${proj}*${R}* \
+    -t 5 \
+    --outdir 01-QC/fastqc_trim/fastqc_trim_${R}_${proj}
 
-# FastQC end timestamp
+# FastQC end-timestamp
 echo "$(date)       [FastQC Complete]"
 
 # We add --profile-runtime to see the runtime.
-multiqc 01-QC/fastqc_raw_${R}_${proj} \
-    --outdir 01-QC/multiqc_raw_${R}_${proj} \
+multiqc 01-QC/fastqc_trim/fastqc_trim_${R}_${proj} \
+    --outdir 01-QC/multiqc_trim/multiqc_trim_${R}_${proj} \
     --profile-runtime
     
 # End time and date
