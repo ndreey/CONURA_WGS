@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #SBATCH --job-name fastp_test
-#SBATCH -A naiss2024-5-1
+#SBATCH -A naiss2023-22-412
 #SBATCH -p core -n 8
-#SBATCH -t 02:15:00
-#SBATCH --output=SLURM-%j-fastp_trim-test.out
-#SBATCH --error=SLURM-%j-fastp_trim-test.err
+#SBATCH -t 01:35:00
+#SBATCH --output=SLURM-%j-fastp_trim-test4.out
+#SBATCH --error=SLURM-%j-fastp_trim-test4.err
 #SBATCH --mail-user=andbou95@gmail.com
 #SBATCH --mail-type=ALL
 
@@ -15,7 +15,7 @@ echo "$(date)       [Start]"
 
 # Load in modules
 module load bioinfo-tools
-module load fastp/0.23.4
+module load fastp/0.23.4 MultiQC/1.12
 
 # Directory with raw reads
 raw="/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/00-RAW"
@@ -47,17 +47,21 @@ while read sample r1 r2; do
         --in1 $R1_in --in2 $R2_in --out1 $R1_out --out2 $R2_out \
         --html "${fastp_dir}/$sample-fastp.html" \
         --json "${fastp_dir}/$sample-fastp.json" \
-        --report_title "$sample fastp report" --thread 8 \
-        --average_qual 15 \
-        --length_required 50 \
-        --detect_adapter_for_pe --verbose \
+        --report_title "$sample fastp report" \
+        --average_qual 20 \
+        --length_required 100 \
+        --detect_adapter_for_pe \
         --trim_poly_g \
-        --overrepresentation_analysis \
-        --cut_right --cut_right_window_size 4 --cut_right_mean_quality 20
+        --dedup \
+        --thread 8 \
+        --verbose 
 
 done < test_trim_samples.txt
 
-
+# MultiQC report of the fastp reports
+multiqc 01-QC/fastp/ \
+    --outdir 01-QC/multiqc_fastp/ \
+    --profile-runtime
 
 # End time and date
 echo "$(date)       [End]"

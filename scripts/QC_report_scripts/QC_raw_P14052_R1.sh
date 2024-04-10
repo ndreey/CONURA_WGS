@@ -23,14 +23,14 @@ R="R1"
 # FastQC run with 8 cores
 fastqc 00-RAW/${proj}*${R}* \
     -t 8 \
-    --outdir 01-QC/fastqc_raw_${R}_${proj}
+    --outdir 01-QC/fastqc_raw/fastqc_raw_${R}_${proj}
 
 # FastQC end-timestamp
 echo "$(date)       [FastQC Complete]"
 
 # We add --profile-runtime to see the runtime.
-multiqc 01-QC/fastqc_raw_${R}_${proj} \
-    --outdir 01-QC/multiqc_raw_${R}_${proj} \
+multiqc 01-QC/fastqc_raw/fastqc_raw_${R}_${proj} \
+    --outdir 01-QC/multiqc_raw/multiqc_raw_${R}_${proj} \
     --profile-runtime
     
 # End time and date
