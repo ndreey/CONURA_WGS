@@ -29,7 +29,7 @@ dependencies:
   - r-optparse
   - r-stringi
   - r-magrittr
-  - bioconductor-q-value
+  - bioconductor-qvalue
   - meme
   - ghostscript
   - fastani

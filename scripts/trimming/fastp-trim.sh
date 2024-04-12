@@ -1,11 +1,11 @@
 #!/bin/bash
 
-#SBATCH --job-name fastp_test
+#SBATCH --job-name fastp
 #SBATCH -A naiss2023-22-412
-#SBATCH -p core -n 8
-#SBATCH -t 01:35:00
-#SBATCH --output=SLURM-%j-fastp_trim-test4.out
-#SBATCH --error=SLURM-%j-fastp_trim-test4.err
+#SBATCH -p node -n 1
+#SBATCH -t 10:35:00
+#SBATCH --output=SLURM-%j-fastp-trim.out
+#SBATCH --error=SLURM-%j-fastp-trim.err
 #SBATCH --mail-user=andbou95@gmail.com
 #SBATCH --mail-type=ALL
 
@@ -43,25 +43,40 @@ while read sample r1 r2; do
     R1_out="$outdir/${sample}_R1-trim.fastq.gz"
     R2_out="$outdir/${sample}_R2-trim.fastq.gz"
 
+    # Store reads where either R1 or R2 does not meet thresholds
+    # Discard reads below average quality of Q20
+    # Discard reads that does not meet minimum length 36
+    # De-duplicates and remove adapters, and polyG's
     fastp \
         --in1 $R1_in --in2 $R2_in --out1 $R1_out --out2 $R2_out \
         --html "${fastp_dir}/$sample-fastp.html" \
         --json "${fastp_dir}/$sample-fastp.json" \
         --report_title "$sample fastp report" \
+        --unpaired1 ${fastp_dir}/00.unpaired.fasta.gz \
+        --unpaired2 ${fastp_dir}/00.unpaired.fasta.gz \
         --average_qual 20 \
-        --length_required 100 \
+        --length_required 36 \
         --detect_adapter_for_pe \
         --trim_poly_g \
         --dedup \
-        --thread 8 \
+        --thread 20 \
         --verbose 
 
-done < test_trim_samples.txt
+done < doc/samples_to_use.txt
+
+
+# Create directory for MultiQC report from fastp reports
+fastp_mqc="/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/01-QC/multiqc_fastp"
+
+if [ ! -d "$fastp_mqc" ]; then
+    mkdir -p "$fastp_mqc"
+fi
+
 
 # MultiQC report of the fastp reports
-multiqc 01-QC/fastp/ \
-    --outdir 01-QC/multiqc_fastp/ \
-    --profile-runtime
+multiqc $fastp_dir \
+    --outdir ${fastp_mqc} \
+    --title "All fastp reports"
 
 # End time and date
 echo "$(date)       [End]"

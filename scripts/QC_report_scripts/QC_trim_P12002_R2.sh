@@ -20,18 +20,33 @@ module load FastQC/0.11.9 MultiQC/1.12
 proj="P12002"
 R="R2"
 
+            ## Setting up directory
+# Create directory for fastqc reports
+fastqc_dir="/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/01-QC/fastqc_trim/fastqc_trim_${R}_${proj}"
+if [ ! -d "$fastqc_dir" ]; then
+    mkdir -p "$fastqc_dir"
+fi
+
+# Create a directory for the multiqc reports
+multiqc_dir="/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/01-QC/multiqc_trim/multiqc_trim_${R}_${proj}"
+if [ ! -d "$multiqc_dir" ]; then
+    mkdir -p "$multiqc_dir"
+fi
+
+
+            ## Running FastQC and MultiQC
 # FastQC run with 8 cores
 fastqc 02-TRIM/${proj}*${R}* \
     -t 5 \
-    --outdir 01-QC/fastqc_trim/fastqc_trim_${R}_${proj}
+    --outdir ${fastqc_dir}
 
 # FastQC end timestamp
 echo "$(date)       [FastQC Complete]"
 
-# We add --profile-runtime to see the runtime.
-multiqc 01-QC/fastqc_trim/fastqc_trim_${R}_${proj} \
-    --outdir 01-QC/multiqc_trim/multiqc_trim_${R}_${proj} \
-    --profile-runtime
+# MultiQC
+multiqc ${fastqc_dir}
+    --outdir ${multiqc_dir} \
+    --title "${proj}_${R} FastQC report"
     
 # End time and date
 echo "$(date)       [End]"
