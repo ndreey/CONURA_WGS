@@ -3,7 +3,7 @@
 #SBATCH --job-name FastQC
 #SBATCH -A naiss2023-22-412
 #SBATCH -p core -n 10
-#SBATCH -t 02:35:00
+#SBATCH -t 02:45:00
 #SBATCH --output=SLURM-%j-trimmed_QC_reports.out
 #SBATCH --error=SLURM-%j-trimmed_QC_reports.err
 #SBATCH --mail-user=andbou95@gmail.com
@@ -44,10 +44,10 @@ fastqc 02-TRIM/${proj}*${R}* \
 # FastQC end timestamp
 echo "$(date)       [FastQC Complete]"
 
-# We add --profile-runtime to see the runtime.
+# MultiQC report
 multiqc ${fastqc_dir} \
     --outdir ${multiqc_dir} \
-    --title "${proj}_${R} FastQC report"
+    --title "TRIMMED ${proj}_${R} FastQC report"
     
 # End time and date
 echo "$(date)       [End]"

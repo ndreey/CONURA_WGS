@@ -1,0 +1,26 @@
+Fri Apr 12 08:36:56 CEST 2024       [Start]
+Generating reports for: P14052 R2
+Analysis complete for P14052_109_R2-trim.fastq.gz
+Analysis complete for P14052_107_R2-trim.fastq.gz
+Analysis complete for P14052_116_R2-trim.fastq.gz
+Analysis complete for P14052_113_R2-trim.fastq.gz
+Analysis complete for P14052_114_R2-trim.fastq.gz
+Analysis complete for P14052_108_R2-trim.fastq.gz
+Analysis complete for P14052_101_R2-trim.fastq.gz
+Analysis complete for P14052_102_R2-trim.fastq.gz
+Analysis complete for P14052_117_R2-trim.fastq.gz
+Analysis complete for P14052_115_R2-trim.fastq.gz
+Analysis complete for P14052_118_R2-trim.fastq.gz
+Analysis complete for P14052_120_R2-trim.fastq.gz
+Analysis complete for P14052_119_R2-trim.fastq.gz
+Analysis complete for P14052_121_R2-trim.fastq.gz
+Analysis complete for P14052_122_R2-trim.fastq.gz
+Analysis complete for P14052_127_R2-trim.fastq.gz
+Analysis complete for P14052_126_R2-trim.fastq.gz
+Analysis complete for P14052_124_R2-trim.fastq.gz
+Analysis complete for P14052_123_R2-trim.fastq.gz
+Analysis complete for P14052_125_R2-trim.fastq.gz
+Fri Apr 12 09:00:33 CEST 2024       [FastQC Complete]
+|         searching | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 40/40  
+Fri Apr 12 09:01:35 CEST 2024       [End]
+Finished generating reports for: P14052 R2
