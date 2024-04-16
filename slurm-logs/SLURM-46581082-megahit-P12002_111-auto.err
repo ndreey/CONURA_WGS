@@ -1,0 +1,22 @@
+2024-04-16 09:12:16 - MEGAHIT v1.2.9
+2024-04-16 09:12:16 - Using megahit_core with POPCNT and BMI2 support
+2024-04-16 09:12:16 - Convert reads to binary library
+2024-04-16 09:13:25 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_111_R1-trim.fastq.gz,/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/02-TRIM/P12002_111_R2-trim.fastq.gz): pe, 49344392 reads, 151 max length
+2024-04-16 09:13:25 - INFO  utils/utils.h                 :  152 - Real: 68.2016	user: 49.7460	sys: 12.5829	maxrss: 253716
+2024-04-16 09:13:25 - Start assembly. Number of CPU threads 20 
+2024-04-16 09:13:25 - k list: 21,33,55 
+2024-04-16 09:13:25 - Memory used: 256397635174
+2024-04-16 09:13:25 - Extract solid (k+1)-mers for k = 21 
+2024-04-16 09:16:34 - Build graph for k = 21 
+2024-04-16 09:18:31 - Assemble contigs from SdBG for k = 21
+2024-04-16 09:49:02 - Local assembly for k = 21
+2024-04-16 09:51:58 - Extract iterative edges from k = 21 to 33 
+2024-04-16 09:58:40 - Build graph for k = 33 
+2024-04-16 10:01:07 - Assemble contigs from SdBG for k = 33
+2024-04-16 10:06:13 - Local assembly for k = 33
+2024-04-16 10:18:42 - Extract iterative edges from k = 33 to 55 
+2024-04-16 10:19:36 - Build graph for k = 55 
+2024-04-16 10:21:17 - Assemble contigs from SdBG for k = 55
+2024-04-16 10:24:27 - Merging to output final contigs 
+2024-04-16 10:24:30 - 705855 contigs, total 364225915 bp, min 200 bp, max 20015 bp, avg 516 bp, N50 648 bp
+2024-04-16 10:24:31 - ALL DONE. Time elapsed: 4335.374390 seconds 
