@@ -1,7 +1,9 @@
 00-RAW/
+00-RAW-LANES-LST/
 01-QC/
 02-TRIM/
 03-HOST-DECON/
 04-ASSEMBLY/
 05-KneadData/
 data/
+slurm-logs/

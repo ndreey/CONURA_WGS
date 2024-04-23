@@ -21,3 +21,6 @@ cd data/Tconura_reference_genome/
 
 # Index genome
 bwa index -p Tconura_ref-filtered Tconura_ref-filtered.fasta
+
+# End time and date
+echo "$(date)       [End]"
