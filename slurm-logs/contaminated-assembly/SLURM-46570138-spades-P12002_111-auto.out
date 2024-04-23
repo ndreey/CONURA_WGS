@@ -995,3 +995,434 @@ mimalloc: warning: unable to allocate from region: size 4194304
  15:53:19.374   198G / 403G  INFO    General                 (launcher.cpp              : 263)   Overlaps will not be removed
  15:53:30.552   198G / 403G  INFO    General                 (launcher.cpp              : 273)   Paths finalized
  15:53:31.124   198G / 403G  INFO    General                 (launcher.cpp              : 454)   Closing gaps in paths
+ 15:54:09.844   216G / 403G  INFO    General                 (launcher.cpp              : 484)   Gap closing completed
+ 15:54:27.206   218G / 403G  INFO    General                 (launcher.cpp              : 302)   Traversing tandem repeats
+ 15:56:51.045   218G / 403G  INFO    General                 (launcher.cpp              : 312)   Traversed 32 loops
+ 15:56:51.743   218G / 403G  INFO    General                 (launcher.cpp              : 250)   Finalizing paths
+ 15:56:52.354   218G / 403G  INFO    General                 (launcher.cpp              : 252)   Deduplicating paths
+ 15:57:31.005   218G / 403G  INFO    General                 (launcher.cpp              : 256)   Paths deduplicated
+ 15:57:31.615   218G / 403G  INFO    General                 (launcher.cpp              : 263)   Overlaps will not be removed
+ 15:57:42.023   218G / 403G  INFO    General                 (launcher.cpp              : 273)   Paths finalized
+ 15:57:42.647   218G / 403G  INFO    General                 (launcher.cpp              : 664)   ExSPAnder repeat resolving tool finished
+ 15:58:26.176   156G / 403G  INFO    General                 (repeat_resolving.cpp      :  93)   Restoring initial path extend settings
+ 15:58:27.015   156G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Contig Output (id: contig_output)
+ 15:58:27.597   156G / 403G  INFO    General                 (contig_output_stage.cpp   : 151)   Writing GFA graph to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/strain_graph.gfa
+ 16:06:50.084   156G / 403G  INFO    General                 (contig_output_stage.cpp   : 196)   Breaking scaffolds
+ 16:09:08.161   180G / 403G  INFO    General                 (contig_output_stage.cpp   :  98)   Outputting contigs to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/final_contigs.fasta
+ 16:12:49.287   156G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Second Phase Setup (id: second_phase_setup)
+ 16:12:50.026   156G / 403G  INFO    General                 (second_phase_setup.cpp    :  18)   Preparing second phase
+ 16:16:33.358    32G / 403G  INFO    General                 (second_phase_setup.cpp    :  26)   Moving preliminary contigs from /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/final_contigs.fasta to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/first_pe_contigs.fasta
+ 16:16:52.741    32G / 403G  INFO    General                 (second_phase_setup.cpp    :  38)   Ready to run second phase
+ 16:16:52.771    32G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Simplification (id: simplification)
+ 16:16:54.142    26G / 403G  INFO    General                 (simplification.cpp        : 368)   Graph simplification started
+ 16:16:54.233    26G / 403G  INFO    General                 (graph_simplification.hpp  : 634)   Creating parallel br instance
+ 16:16:54.250    26G / 403G  INFO    General                 (simplification.cpp        : 373)   PROCEDURE == Simplification cycle, iteration 1
+ 16:16:54.266    26G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:16:55.564    26G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 2 times
+ 16:16:55.593    26G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:18:57.862    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 161378 times
+ 16:18:57.918    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Low coverage edge remover
+ 16:18:58.762    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Low coverage edge remover triggered 0 times
+ 16:18:58.790    27G / 403G  INFO    General                 (simplification.cpp        : 373)   PROCEDURE == Simplification cycle, iteration 2
+ 16:18:58.810    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:18:59.158    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 1687 times
+ 16:18:59.187    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:18:59.357    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 59 times
+ 16:18:59.384    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Low coverage edge remover
+ 16:18:59.405    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Low coverage edge remover triggered 2 times
+ 16:18:59.425    27G / 403G  INFO    General                 (simplification.cpp        : 373)   PROCEDURE == Simplification cycle, iteration 3
+ 16:18:59.444    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:18:59.464    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 0 times
+ 16:18:59.484    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:18:59.503    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 0 times
+ 16:18:59.523    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Low coverage edge remover
+ 16:18:59.548    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Low coverage edge remover triggered 15 times
+ 16:18:59.569    27G / 403G  INFO    General                 (simplification.cpp        : 373)   PROCEDURE == Simplification cycle, iteration 4
+ 16:18:59.589    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:19:00.474    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 3 times
+ 16:19:00.503    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:19:38.465    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 62 times
+ 16:19:38.497    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Low coverage edge remover
+ 16:19:39.227    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Low coverage edge remover triggered 0 times
+ 16:19:39.250    27G / 403G  INFO    General                 (simplification.cpp        : 373)   PROCEDURE == Simplification cycle, iteration 5
+ 16:19:39.269    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:19:39.289    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 0 times
+ 16:19:39.307    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:19:39.326    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 0 times
+ 16:19:39.344    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Low coverage edge remover
+ 16:19:39.362    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Low coverage edge remover triggered 0 times
+ 16:19:40.210    27G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Gap Closer (id: late_gapcloser)
+ 16:19:40.239    27G / 403G  INFO    General                 (edge_index.hpp            : 113)   Size of edge index entries: 12/8
+ 16:19:41.200    27G / 403G  INFO    General                 (gap_closer.cpp            : 101)   Total edges in tip neighborhood: 1713853 out of 16468396, length: 643507444
+ 16:19:41.450    27G / 403G  INFO    General                 (edge_index.hpp            : 167)   Using small index (max_id = 122352288)
+ 16:19:42.741    27G / 403G  INFO   K-mer Index Building     (kmer_index_builder.hpp    : 395)   Building perfect hash indices
+ 16:20:04.607    28G / 403G  INFO   K-mer Index Building     (kmer_index_builder.hpp    : 431)   Index built. Total 417809125 kmers, 302336446 bytes occupied (5.78899 bits per kmer).
+ 16:20:06.555    31G / 403G  INFO    General                 (edge_index_builders.hpp   : 265)   Collecting edge information from graph, this takes a while.
+ 16:21:14.562    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 200000 reads
+ 16:21:14.590    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 400000 reads
+ 16:21:14.654    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 600000 reads
+ 16:21:14.776    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 800000 reads
+ 16:21:15.044    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1000000 reads
+ 16:21:15.184    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1200000 reads
+ 16:21:17.670    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 2200000 reads
+ 16:22:10.362    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 4200000 reads
+ 16:23:06.626    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 8400000 reads
+ 16:24:58.790    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 16800000 reads
+ 16:26:27.842    31G / 403G  INFO    General                 (sequence_mapper_notifier.h:  95)   Total 24672196 reads processed
+ 16:26:30.072    27G / 403G  INFO    General                 (gap_closer.cpp            : 452)   Initializing gap closer
+ 16:26:30.114    27G / 403G  INFO   GapCloser                (gap_closer.cpp            : 359)   Closing short gaps
+ 16:26:53.271    27G / 403G  INFO   GapCloser                (gap_closer.cpp            : 391)   Closing short gaps complete: filled 349 gaps after checking 617377 candidates
+ 16:26:54.218    27G / 403G  INFO    General                 (gap_closer.cpp            : 456)   Gap closer done
+ 16:26:54.523    27G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Simplification Cleanup (id: simplification_cleanup)
+ 16:26:54.560    27G / 403G  INFO    General                 (simplification.cpp        : 176)   PROCEDURE == Post simplification
+ 16:26:54.585    27G / 403G  INFO    General                 (graph_simplification.hpp  : 634)   Creating parallel br instance
+ 16:26:54.609    27G / 403G  INFO    General                 (graph_simplification.hpp  : 634)   Creating parallel br instance
+ 16:26:54.634    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Relative coverage component remover
+ 16:28:59.384    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Relative coverage component remover triggered 566395 times
+ 16:28:59.517    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Disconnecting edges with relatively low coverage
+ 16:29:30.418    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Disconnecting edges with relatively low coverage triggered 674890 times
+ 16:29:30.461    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex tip clipper
+ 16:29:34.967    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex tip clipper triggered 142654 times
+ 16:29:35.048    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex bulge remover
+ 16:30:04.618    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex bulge remover triggered 8296 times
+ 16:30:04.659    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:30:08.898    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 307578 times
+ 16:30:08.969    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final tip clipper
+ 16:30:10.116    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final tip clipper triggered 68132 times
+ 16:30:10.149    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:30:38.419    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 23513 times
+ 16:30:38.471    27G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final bulge remover
+ 16:32:15.233    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final bulge remover triggered 46055 times
+ 16:32:15.303    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Thorn remover (meta)
+ 16:32:16.088    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Thorn remover (meta) triggered 0 times
+ 16:32:16.132    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Relative coverage component remover
+ 16:32:53.625    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Relative coverage component remover triggered 23779 times
+ 16:32:53.667    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Disconnecting edges with relatively low coverage
+ 16:33:12.606    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Disconnecting edges with relatively low coverage triggered 18456 times
+ 16:33:12.642    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex tip clipper
+ 16:33:13.905    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex tip clipper triggered 11407 times
+ 16:33:13.936    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex bulge remover
+ 16:33:31.015    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex bulge remover triggered 1183 times
+ 16:33:31.046    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:33:31.815    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 16681 times
+ 16:33:31.845    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final tip clipper
+ 16:33:32.364    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final tip clipper triggered 2337 times
+ 16:33:32.401    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:33:44.376    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 4765 times
+ 16:33:44.431    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final bulge remover
+ 16:34:15.709    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final bulge remover triggered 923 times
+ 16:34:15.797    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Thorn remover (meta)
+ 16:34:16.496    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Thorn remover (meta) triggered 0 times
+ 16:34:16.540    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Relative coverage component remover
+ 16:34:48.504    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Relative coverage component remover triggered 2637 times
+ 16:34:48.545    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Disconnecting edges with relatively low coverage
+ 16:34:50.442    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Disconnecting edges with relatively low coverage triggered 1114 times
+ 16:34:50.471    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex tip clipper
+ 16:34:51.208    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex tip clipper triggered 377 times
+ 16:34:51.235    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex bulge remover
+ 16:35:06.211    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex bulge remover triggered 94 times
+ 16:35:06.238    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:35:06.386    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 837 times
+ 16:35:06.414    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final tip clipper
+ 16:35:06.486    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final tip clipper triggered 58 times
+ 16:35:06.514    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:35:07.023    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 254 times
+ 16:35:07.051    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final bulge remover
+ 16:35:07.919    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final bulge remover triggered 31 times
+ 16:35:07.948    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Thorn remover (meta)
+ 16:35:07.997    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Thorn remover (meta) triggered 0 times
+ 16:35:08.022    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Relative coverage component remover
+ 16:35:27.422    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Relative coverage component remover triggered 117 times
+ 16:35:27.480    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Disconnecting edges with relatively low coverage
+ 16:35:27.700    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Disconnecting edges with relatively low coverage triggered 74 times
+ 16:35:27.740    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex tip clipper
+ 16:35:28.758    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex tip clipper triggered 27 times
+ 16:35:28.793    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex bulge remover
+ 16:35:43.541    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex bulge remover triggered 1 times
+ 16:35:43.586    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:35:43.631    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 39 times
+ 16:35:43.666    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final tip clipper
+ 16:35:43.699    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final tip clipper triggered 5 times
+ 16:35:43.725    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:35:43.771    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 9 times
+ 16:35:43.795    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final bulge remover
+ 16:35:43.863    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final bulge remover triggered 5 times
+ 16:35:43.888    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Thorn remover (meta)
+ 16:35:43.913    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Thorn remover (meta) triggered 0 times
+ 16:35:43.936    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Relative coverage component remover
+ 16:36:07.887    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Relative coverage component remover triggered 7 times
+ 16:36:07.923    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Disconnecting edges with relatively low coverage
+ 16:36:07.957    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Disconnecting edges with relatively low coverage triggered 3 times
+ 16:36:07.981    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex tip clipper
+ 16:36:09.016    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex tip clipper triggered 0 times
+ 16:36:09.060    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex bulge remover
+ 16:36:23.762    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex bulge remover triggered 0 times
+ 16:36:23.823    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:36:23.856    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 4 times
+ 16:36:23.886    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final tip clipper
+ 16:36:23.911    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final tip clipper triggered 0 times
+ 16:36:23.934    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:36:23.958    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 0 times
+ 16:36:23.981    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final bulge remover
+ 16:36:24.005    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final bulge remover triggered 0 times
+ 16:36:24.027    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Thorn remover (meta)
+ 16:36:24.049    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Thorn remover (meta) triggered 0 times
+ 16:36:24.072    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Relative coverage component remover
+ 16:36:55.424    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Relative coverage component remover triggered 0 times
+ 16:36:55.485    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Disconnecting edges with relatively low coverage
+ 16:36:55.530    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Disconnecting edges with relatively low coverage triggered 0 times
+ 16:36:55.566    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex tip clipper
+ 16:36:56.490    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex tip clipper triggered 0 times
+ 16:36:56.517    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Complex bulge remover
+ 16:37:11.123    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Complex bulge remover triggered 0 times
+ 16:37:11.160    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Tip clipper
+ 16:37:11.183    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Tip clipper triggered 0 times
+ 16:37:11.207    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final tip clipper
+ 16:37:11.230    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final tip clipper triggered 0 times
+ 16:37:11.253    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Bulge remover
+ 16:37:11.276    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Bulge remover triggered 0 times
+ 16:37:11.300    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Final bulge remover
+ 16:37:11.323    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Final bulge remover triggered 0 times
+ 16:37:11.346    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Thorn remover (meta)
+ 16:37:11.369    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Thorn remover (meta) triggered 0 times
+ 16:37:11.392    28G / 403G  INFO    General                 (simplification.cpp        : 323)   Running Hidden EC remover (meta)
+ 16:37:12.348    28G / 403G  INFO    General                 (simplification.cpp        : 327)   Disrupting self-conjugate edges
+ 16:37:17.539    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 167)   Running Removing isolated edges
+ 16:37:18.217    28G / 403G  INFO   Simplification           (parallel_processing.hpp   : 170)   Removing isolated edges triggered 78860 times
+ 16:37:18.735    28G / 403G  INFO    General                 (simplification.cpp        : 495)   After simplification:
+ 16:37:18.761    28G / 403G  INFO    General                 (simplification.cpp        : 496)     Average coverage = 5.84846
+ 16:37:19.187    28G / 403G  INFO    General                 (simplification.cpp        : 497)     Total length = 509716469
+ 16:37:19.965    28G / 403G  INFO    General                 (simplification.cpp        : 498)     Median edge length: 474
+ 16:37:19.993    28G / 403G  INFO    General                 (simplification.cpp        : 499)     Edges: 7814440
+ 16:37:20.016    28G / 403G  INFO    General                 (simplification.cpp        : 500)     Vertices: 6831038
+ 16:37:20.039    28G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Mismatch Correction (id: mismatch_correction)
+ 16:37:20.061    28G / 403G  INFO    General                 (graph_pack.cpp            :  67)   Index refill
+ 16:37:20.084    28G / 403G  INFO    General                 (edge_index.hpp            : 156)   Using small index (max_id = 122352288)
+ 16:37:22.119    28G / 403G  INFO   K-mer Index Building     (kmer_index_builder.hpp    : 395)   Building perfect hash indices
+ 16:37:53.309    28G / 403G  INFO   K-mer Index Building     (kmer_index_builder.hpp    : 431)   Index built. Total 509712004 kmers, 369185536 bytes occupied (5.79442 bits per kmer).
+ 16:37:55.699    32G / 403G  INFO    General                 (edge_index_builders.hpp   : 252)   Collecting edge information from graph, this takes a while.
+ 16:38:12.744    32G / 403G  INFO    General                 (graph_pack.cpp            :  77)   Normalizing k-mer map. Total 388444540 kmers to process
+ 16:40:45.450    32G / 403G  INFO    General                 (graph_pack.cpp            :  79)   Normalizing done
+ 16:40:45.495    32G / 403G  INFO    General                 (mismatch_correction.cpp   : 400)   Collect potential mismatches
+ 16:42:27.065    33G / 403G  INFO    General                 (mismatch_correction.cpp   : 192)   Total 3704947 edges (out of 7814440) with 44328453 potential mismatch positions (11.9647 positions per edge)
+ 16:42:27.957    33G / 403G  INFO    General                 (mismatch_correction.cpp   : 402)   Potential mismatches collected
+ 16:42:45.617    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 200000 reads
+ 16:42:45.735    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 400000 reads
+ 16:42:45.827    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 600000 reads
+ 16:42:45.892    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 800000 reads
+ 16:42:46.072    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1000000 reads
+ 16:42:46.128    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1200000 reads
+ 16:42:46.487    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 2200000 reads
+ 16:43:02.438    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 4200000 reads
+ 16:43:19.279    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 8400000 reads
+ 16:43:53.197    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 16800000 reads
+ 16:45:04.469    33G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 33600000 reads
+ 16:47:30.585    34G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 67200000 reads
+ 16:50:06.112    41G / 403G  INFO    General                 (sequence_mapper_notifier.h:  95)   Total 98688784 reads processed
+ 16:50:27.696    34G / 403G  INFO    General                 (mismatch_correction.cpp   : 395)   All edges processed
+ 16:50:29.321    32G / 403G  INFO    General                 (mismatch_correction.cpp   : 450)   Corrected 8283 nucleotides
+ 16:50:30.602    32G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Contig Output (id: contig_output)
+ 16:50:30.651    32G / 403G  INFO    General                 (contig_output.hpp         :  16)   Outputting contigs to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/before_rr.fasta
+ 16:50:51.815    32G / 403G  INFO    General                 (contig_output_stage.cpp   : 151)   Writing GFA graph to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/assembly_graph_after_simplification.gfa
+ 16:51:14.652    32G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Paired Information Counting (id: late_pair_info_count)
+ 16:52:07.789    35G / 403G  INFO    General                 (graph_pack.cpp            :  77)   Normalizing k-mer map. Total 388973330 kmers to process
+ 16:54:29.257    35G / 403G  INFO    General                 (graph_pack.cpp            :  79)   Normalizing done
+ 16:54:29.295    35G / 403G  INFO    General                 (pair_info_count.cpp       : 339)   Min edge length for estimation: 900
+ 16:54:29.323    35G / 403G  INFO    General                 (pair_info_count.cpp       : 350)   Estimating insert size for library #0
+ 16:54:29.350    35G / 403G  INFO    General                 (pair_info_count.cpp       : 202)   Estimating insert size (takes a while)
+ 16:54:29.578    35G / 403G  INFO    General                 (pair_info_count.cpp       :  48)   Selecting usual mapper
+ 16:55:09.792    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 200000 reads
+ 16:55:09.831    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 400000 reads
+ 16:55:09.864    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 600000 reads
+ 16:55:09.926    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 800000 reads
+ 16:55:09.980    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1000000 reads
+ 16:55:10.120    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1200000 reads
+ 16:55:13.800    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 2200000 reads
+ 16:55:49.823    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 4200000 reads
+ 16:56:30.274    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 8400000 reads
+ 16:57:52.211    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 16800000 reads
+ 16:58:58.148    35G / 403G  INFO    General                 (sequence_mapper_notifier.h:  95)   Total 24672196 reads processed
+ 16:58:58.410    35G / 403G  INFO    General                 (pair_info_count.cpp       : 220)   Edge pairs: 491334336
+ 16:58:58.438    35G / 403G  INFO    General                 (pair_info_count.cpp       : 222)   2203157 paired reads (8.92972% of all) aligned to long edges
+ 16:58:58.515    35G / 403G  INFO    General                 (pair_info_count.cpp       : 369)     Insert size = 397.583, deviation = 85.129, left quantile = 297, right quantile = 506, read length = 151
+ 16:58:59.322    36G / 403G  INFO    General                 (pair_info_count.cpp       : 390)   Filtering data for library #0
+ 16:58:59.360    36G / 403G  INFO    General                 (pair_info_count.cpp       :  48)   Selecting usual mapper
+ 16:59:43.879    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 200000 reads
+ 16:59:44.016    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 400000 reads
+ 16:59:44.016    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 600000 reads
+ 16:59:44.086    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 800000 reads
+ 16:59:44.418    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1000000 reads
+ 16:59:45.422    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1200000 reads
+ 16:59:45.423    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 2200000 reads
+ 17:00:28.306    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 4200000 reads
+ 17:01:12.851    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 8400000 reads
+ 17:02:42.825    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 16800000 reads
+ 17:03:49.428    36G / 403G  INFO    General                 (sequence_mapper_notifier.h:  95)   Total 24672196 reads processed
+ 17:03:49.493    36G / 403G  INFO    General                 (pair_info_count.cpp       : 402)   Mapping library #0
+ 17:03:49.530    36G / 403G  INFO    General                 (pair_info_count.cpp       : 404)   Mapping paired reads (takes a while)
+ 17:03:49.565    36G / 403G  INFO    General                 (pair_info_count.cpp       : 299)   Left insert size quantile 297, right insert size quantile 506, filtering threshold 1, rounding threshold 0
+ 17:03:49.620    36G / 403G  INFO    General                 (pair_info_count.cpp       :  48)   Selecting usual mapper
+ 17:04:42.946    37G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 200000 reads
+ 17:04:42.968    37G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 400000 reads
+ 17:04:43.068    37G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 600000 reads
+ 17:04:43.329    38G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 800000 reads
+ 17:04:43.432    38G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1000000 reads
+ 17:04:43.569    38G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1200000 reads
+ 17:04:43.893    38G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 2200000 reads
+ 17:05:36.163    39G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 4200000 reads
+ 17:06:29.634    39G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 8400000 reads
+ 17:08:16.779    40G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 16800000 reads
+ 17:09:35.394    53G / 403G  INFO    General                 (sequence_mapper_notifier.h:  95)   Total 24672196 reads processed
+ 17:09:37.986    51G / 403G  INFO    General                 (pair_info_count.cpp       : 346)   Mapping contigs library #1
+ 17:09:38.019    51G / 403G  INFO    General                 (pair_info_count.cpp       :  48)   Selecting usual mapper
+ 17:12:48.704    51G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 200000 reads
+ 17:13:55.086    51G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 400000 reads
+ 17:15:03.889    51G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 600000 reads
+ 17:16:13.564    51G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 800000 reads
+ 17:16:59.993    51G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1000000 reads
+ 17:17:37.595    51G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 1200000 reads
+ 17:19:32.035    51G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 2200000 reads
+ 17:20:15.139    52G / 403G  INFO    General                 (sequence_mapper_notifier.h:  77)   Processed 4200000 reads
+ 17:20:17.239    52G / 403G  INFO    General                 (sequence_mapper_notifier.h:  95)   Total 4583069 reads processed
+ 17:20:17.274    52G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Distance Estimation (id: distance_estimation)
+ 17:20:17.303    52G / 403G  INFO    General                 (distance_estimation.cpp   : 179)   Processing library #0
+ 17:20:17.332    52G / 403G  INFO    General                 (distance_estimation.cpp   : 150)   Weight Filter Done
+ 17:20:17.360    52G / 403G  INFO   DistanceEstimator        (distance_estimation.hpp   : 116)   Using SIMPLE distance estimator
+ 18:09:05.918    69G / 403G  INFO    General                 (distance_estimation.cpp   :  37)   Filtering info
+ 18:09:10.833    69G / 403G  INFO    General                 (pair_info_filters.hpp     : 242)   Start filtering; library index size: 1030256024
+ 18:15:08.392    62G / 403G  INFO    General                 (pair_info_filters.hpp     : 263)   Done filtering; library index size: 144032002
+ 18:15:08.963    58G / 403G  INFO    General                 (distance_estimation.cpp   : 156)   Refining clustered pair information
+ 18:15:56.090    58G / 403G  INFO    General                 (distance_estimation.cpp   : 158)   The refining of clustered pair information has been finished
+ 18:15:56.200    58G / 403G  INFO    General                 (distance_estimation.cpp   : 160)   Improving paired information
+ 18:32:27.975    65G / 403G  INFO   PairInfoImprover         (pair_info_improver.hpp    : 104)   Paired info stats: missing = 93535804; contradictional = 0
+ 18:59:18.848    68G / 403G  INFO   PairInfoImprover         (pair_info_improver.hpp    : 104)   Paired info stats: missing = 43814808; contradictional = 0
+ 18:59:32.934    68G / 403G  INFO    General                 (distance_estimation.cpp   : 104)   Filling scaffolding index
+ 18:59:33.099    68G / 403G  INFO   DistanceEstimator        (distance_estimation.hpp   : 116)   Using SMOOTHING distance estimator
+ 19:56:49.387    71G / 403G  INFO    General                 (distance_estimation.cpp   :  37)   Filtering info
+ 19:56:50.758    71G / 403G  INFO    General                 (pair_info_filters.hpp     : 242)   Start filtering; library index size: 74685999
+ 19:57:20.349    73G / 403G  INFO    General                 (pair_info_filters.hpp     : 263)   Done filtering; library index size: 74685999
+ 19:57:20.591    71G / 403G  INFO    General                 (distance_estimation.cpp   : 186)   Clearing raw paired index
+ 19:58:14.693    55G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Repeat Resolving (id: repeat_resolving)
+ 19:58:18.383    55G / 403G  INFO    General                 (repeat_resolving.cpp      :  87)   Using Path-Extend repeat resolving
+ 19:58:18.520    55G / 403G  INFO    General                 (launcher.cpp              : 600)   ExSPAnder repeat resolving tool started
+ 19:58:44.904    71G / 403G  INFO    General                 (launcher.cpp              : 418)   Creating main extenders, unique edge length = 2000
+ 19:58:45.160    72G / 403G  INFO    General                 (launcher.cpp              : 342)   filling path container
+ 19:58:56.639    77G / 403G  INFO    General                 (extenders_logic.cpp       : 345)   Creating extender; library index size: 418730645
+ 19:58:56.776    77G / 403G  INFO    General                 (extenders_logic.cpp       : 345)   Creating extender; library index size: 418730645
+ 19:59:02.467    78G / 403G  INFO    General                 (extenders_logic.cpp       :  47)   resolvable_repeat_length_bound set to 10000
+ 19:59:22.957    79G / 403G  INFO    General                 (extenders_logic.cpp       : 543)   Using 1 paired-end library
+ 19:59:23.095    79G / 403G  INFO    General                 (extenders_logic.cpp       : 544)   Using 1 paired-end scaffolding library
+ 19:59:23.215    79G / 403G  INFO    General                 (extenders_logic.cpp       : 545)   Using 1 single read library
+ 19:59:24.979    79G / 403G  INFO    General                 (launcher.cpp              : 385)   Filling backbone edges for long reads scaffolding...
+ 19:59:25.106    79G / 403G  INFO    General                 (launcher.cpp              : 387)    with long reads paths
+ 19:59:25.229    79G / 403G  INFO    General                 (launcher.cpp              : 396)   Removing fake unique with paired-end libs
+ 19:59:25.352    79G / 403G  INFO    General                 (launcher.cpp              : 407)   0 unique edges
+ 19:59:25.475    79G / 403G  INFO    General                 (extenders_logic.cpp       : 446)   Using 0 long reads scaffolding libraries
+ 19:59:25.594    79G / 403G  INFO    General                 (extenders_logic.cpp       : 456)   Using additional coordinated coverage extender
+ 19:59:25.726    80G / 403G  INFO    General                 (launcher.cpp              : 447)   Total number of extenders is 5
+ 19:59:25.848    80G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 0 paths from 3900333 (0%)
+ 19:59:26.048    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 128 paths from 3900333 (0%)
+ 19:59:26.235    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 256 paths from 3900333 (0%)
+ 19:59:26.468    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 512 paths from 3900333 (0%)
+ 19:59:26.847    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 1024 paths from 3900333 (0%)
+ 19:59:28.337    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 2048 paths from 3900333 (0%)
+ 19:59:29.437    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 4096 paths from 3900333 (0%)
+ 19:59:31.008    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 8192 paths from 3900333 (0%)
+ 19:59:33.639    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 16384 paths from 3900333 (0%)
+ 19:59:38.861    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 32768 paths from 3900333 (0%)
+ 19:59:48.025    80G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 65536 paths from 3900333 (1%)
+ 20:00:04.714    81G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 131072 paths from 3900333 (3%)
+ 20:00:32.784    81G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 262144 paths from 3900333 (6%)
+ 20:01:06.467    82G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 390034 paths from 3900333 (10%)
+ 20:01:41.710    82G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 524288 paths from 3900333 (13%)
+ 20:02:33.849    84G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 780068 paths from 3900333 (20%)
+ 20:03:11.034    85G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 1048576 paths from 3900333 (26%)
+ 20:03:42.156    85G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 1170102 paths from 3900333 (30%)
+ 20:05:30.509    87G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 1560136 paths from 3900333 (40%)
+ 20:06:14.446    88G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 1950170 paths from 3900333 (50%)
+ 20:06:21.705    88G / 403G  INFO    General                 (path_extenders.cpp        :  34)   Processed 2097152 paths from 3900333 (53%)
+ 20:06:31.235    88G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 2340204 paths from 3900333 (60%)
+ 20:06:41.233    89G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 2730238 paths from 3900333 (70%)
+ 20:06:48.287    89G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 3120272 paths from 3900333 (80%)
+ 20:06:53.663    90G / 403G  INFO    General                 (path_extenders.cpp        :  36)   Processed 3510306 paths from 3900333 (90%)
+ 20:07:00.227    90G / 403G  INFO    General                 (launcher.cpp              : 250)   Finalizing paths
+ 20:07:00.372    90G / 403G  INFO    General                 (launcher.cpp              : 252)   Deduplicating paths
+ 20:07:21.706    90G / 403G  INFO    General                 (launcher.cpp              : 256)   Paths deduplicated
+ 20:07:21.858    90G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  60)   Removing overlaps
+ 20:07:22.002    90G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  70)   Marking overlaps
+ 20:07:22.146    90G / 403G  INFO   OverlapRemover           (overlap_remover.hpp       : 116)   Marking start/end overlaps
+ 20:08:00.757    90G / 403G  INFO   OverlapRemover           (overlap_remover.hpp       : 119)   Marking remaining overlaps
+ 20:08:44.884    90G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  73)   Splitting paths
+ 20:09:00.991    96G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  78)   Deduplicating paths
+ 20:09:20.969    90G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  80)   Overlaps removed
+ 20:09:29.447    90G / 403G  INFO    General                 (launcher.cpp              : 273)   Paths finalized
+ 20:09:29.686    90G / 403G  INFO    General                 (launcher.cpp              : 454)   Closing gaps in paths
+ 20:09:43.363    98G / 403G  INFO    General                 (launcher.cpp              : 484)   Gap closing completed
+ 20:09:47.345    99G / 403G  INFO    General                 (launcher.cpp              : 302)   Traversing tandem repeats
+ 20:10:41.875    99G / 403G  INFO    General                 (launcher.cpp              : 312)   Traversed 148 loops
+ 20:10:42.057    99G / 403G  INFO    General                 (launcher.cpp              : 250)   Finalizing paths
+ 20:10:42.213    99G / 403G  INFO    General                 (launcher.cpp              : 252)   Deduplicating paths
+ 20:10:44.978    99G / 403G  INFO    General                 (launcher.cpp              : 256)   Paths deduplicated
+ 20:10:45.141    99G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  60)   Removing overlaps
+ 20:10:45.296    99G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  70)   Marking overlaps
+ 20:10:45.461    99G / 403G  INFO   OverlapRemover           (overlap_remover.hpp       : 116)   Marking start/end overlaps
+ 20:10:52.116    99G / 403G  INFO   OverlapRemover           (overlap_remover.hpp       : 119)   Marking remaining overlaps
+ 20:10:59.787    99G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  73)   Splitting paths
+ 20:11:03.795   100G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  78)   Deduplicating paths
+ 20:11:09.236    99G / 403G  INFO   PEResolver               (pe_resolver.cpp           :  80)   Overlaps removed
+ 20:11:15.290    99G / 403G  INFO    General                 (launcher.cpp              : 273)   Paths finalized
+ 20:11:15.459    99G / 403G  INFO    General                 (launcher.cpp              : 664)   ExSPAnder repeat resolving tool finished
+ 20:11:36.488    63G / 403G  INFO   StageManager             (stage.cpp                 : 185)   STAGE == Contig Output (id: contig_output)
+ 20:11:37.546    63G / 403G  INFO    General                 (contig_output.hpp         :  16)   Outputting contigs to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/before_rr.fasta
+ 20:11:58.744    63G / 403G  INFO    General                 (contig_output_stage.cpp   : 151)   Writing GFA graph to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/assembly_graph_with_scaffolds.gfa
+ 20:12:16.959    63G / 403G  INFO    General                 (contig_output_stage.cpp   : 165)   Outputting FastG graph to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/assembly_graph.fastg
+ 20:13:18.101    63G / 403G  INFO    General                 (contig_output_stage.cpp   : 196)   Breaking scaffolds
+ 20:13:56.382    74G / 403G  INFO    General                 (contig_output_stage.cpp   :  98)   Outputting contigs to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/final_contigs.fasta
+ 20:14:00.420    74G / 403G  INFO    General                 (contig_output_stage.cpp   : 104)   Outputting FastG paths to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/final_contigs.paths
+ 20:14:31.949    65G / 403G  INFO    General                 (contig_output_stage.cpp   :  98)   Outputting contigs to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/scaffolds.fasta
+ 20:14:36.054    65G / 403G  INFO    General                 (contig_output_stage.cpp   : 104)   Outputting FastG paths to /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/scaffolds.paths
+ 20:14:47.602    65G / 403G  INFO    General                 (contig_output_stage.cpp   : 111)   Populating GFA with scaffold paths
+ 20:14:53.589    63G / 403G  INFO    General                 (pipeline.cpp              : 287)   SPAdes finished
+ 20:17:36.021     1M / 403G  INFO    General                 (main.cpp                  : 136)   Assembling time: 20 hours 17 minutes 36 seconds
+
+===== K55 finished. 
+
+
+===== Copy files started. 
+
+
+== Running: /usr/bin/python /sw/bioinfo/spades/3.15.5/rackham/share/spades/spades_pipeline/scripts/copy_files.py /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/before_rr.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/before_rr.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/assembly_graph_after_simplification.gfa /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/assembly_graph_after_simplification.gfa /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/final_contigs.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/contigs.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/first_pe_contigs.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/first_pe_contigs.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/strain_graph.gfa /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/strain_graph.gfa /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/scaffolds.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/scaffolds.fasta /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/scaffolds.paths /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/scaffolds.paths /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/assembly_graph_with_scaffolds.gfa /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/assembly_graph_with_scaffolds.gfa /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/assembly_graph.fastg /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/assembly_graph.fastg /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/K55/final_contigs.paths /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/contigs.paths
+
+
+===== Copy files finished. 
+
+
+===== Assembling finished. 
+
+
+===== Breaking scaffolds started. 
+
+
+== Running: /usr/bin/python /sw/bioinfo/spades/3.15.5/rackham/share/spades/spades_pipeline/scripts/breaking_scaffolds_script.py --result_scaffolds_filename /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/scaffolds.fasta --misc_dir /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/misc --threshold_for_breaking_scaffolds 3
+
+
+===== Breaking scaffolds finished. 
+
+
+===== Terminate started. 
+
+
+===== Terminate finished. 
+
+ * Assembled contigs are in /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/contigs.fasta
+ * Assembled scaffolds are in /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/scaffolds.fasta
+ * Paths in the assembly graph corresponding to the contigs are in /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/contigs.paths
+ * Paths in the assembly graph corresponding to the scaffolds are in /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/scaffolds.paths
+ * Assembly graph is in /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/assembly_graph.fastg
+ * Assembly graph in GFA format is in /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/assembly_graph_with_scaffolds.gfa
+
+======= SPAdes pipeline finished.
+
+SPAdes log can be found here: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/03-ASSEMBLY/spades-auto/spades.log
+
+Thank you for using SPAdes!

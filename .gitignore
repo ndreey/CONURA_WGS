@@ -1,4 +1,7 @@
 00-RAW/
 01-QC/
 02-TRIM/
-03-ASSEMBLY/
+03-HOST-DECON/
+04-ASSEMBLY/
+05-KneadData/
+data/

@@ -1,0 +1,56 @@
+[bwa_index] Pack FASTA... 18.61 sec
+[bwa_index] Construct BWT for the packed sequence...
+[BWTIncCreate] textLength=3869428646, availableWord=284266844
+[BWTIncConstructFromPacked] 10 iterations done. 99999990 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 199999990 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 299999990 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 399999990 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 499999990 characters processed.
+[BWTIncConstructFromPacked] 60 iterations done. 599999990 characters processed.
+[BWTIncConstructFromPacked] 70 iterations done. 699999990 characters processed.
+[BWTIncConstructFromPacked] 80 iterations done. 799999990 characters processed.
+[BWTIncConstructFromPacked] 90 iterations done. 899999990 characters processed.
+[BWTIncConstructFromPacked] 100 iterations done. 999999990 characters processed.
+[BWTIncConstructFromPacked] 110 iterations done. 1099999990 characters processed.
+[BWTIncConstructFromPacked] 120 iterations done. 1199999990 characters processed.
+[BWTIncConstructFromPacked] 130 iterations done. 1299999990 characters processed.
+[BWTIncConstructFromPacked] 140 iterations done. 1399999990 characters processed.
+[BWTIncConstructFromPacked] 150 iterations done. 1499999990 characters processed.
+[BWTIncConstructFromPacked] 160 iterations done. 1599999990 characters processed.
+[BWTIncConstructFromPacked] 170 iterations done. 1699999990 characters processed.
+[BWTIncConstructFromPacked] 180 iterations done. 1799999990 characters processed.
+[BWTIncConstructFromPacked] 190 iterations done. 1899999990 characters processed.
+[BWTIncConstructFromPacked] 200 iterations done. 1999999990 characters processed.
+[BWTIncConstructFromPacked] 210 iterations done. 2099999990 characters processed.
+[BWTIncConstructFromPacked] 220 iterations done. 2199999990 characters processed.
+[BWTIncConstructFromPacked] 230 iterations done. 2299999990 characters processed.
+[BWTIncConstructFromPacked] 240 iterations done. 2399999990 characters processed.
+[BWTIncConstructFromPacked] 250 iterations done. 2499999990 characters processed.
+[BWTIncConstructFromPacked] 260 iterations done. 2599999990 characters processed.
+[BWTIncConstructFromPacked] 270 iterations done. 2699999990 characters processed.
+[BWTIncConstructFromPacked] 280 iterations done. 2799999990 characters processed.
+[BWTIncConstructFromPacked] 290 iterations done. 2899999990 characters processed.
+[BWTIncConstructFromPacked] 300 iterations done. 2999999990 characters processed.
+[BWTIncConstructFromPacked] 310 iterations done. 3099999990 characters processed.
+[BWTIncConstructFromPacked] 320 iterations done. 3199981398 characters processed.
+[BWTIncConstructFromPacked] 330 iterations done. 3293580918 characters processed.
+[BWTIncConstructFromPacked] 340 iterations done. 3376768406 characters processed.
+[BWTIncConstructFromPacked] 350 iterations done. 3450701654 characters processed.
+[BWTIncConstructFromPacked] 360 iterations done. 3516409686 characters processed.
+[BWTIncConstructFromPacked] 370 iterations done. 3574807174 characters processed.
+[BWTIncConstructFromPacked] 380 iterations done. 3626706998 characters processed.
+[BWTIncConstructFromPacked] 390 iterations done. 3672831654 characters processed.
+[BWTIncConstructFromPacked] 400 iterations done. 3713823350 characters processed.
+[BWTIncConstructFromPacked] 410 iterations done. 3750252838 characters processed.
+[BWTIncConstructFromPacked] 420 iterations done. 3782627430 characters processed.
+[BWTIncConstructFromPacked] 430 iterations done. 3811398038 characters processed.
+[BWTIncConstructFromPacked] 440 iterations done. 3836965382 characters processed.
+[BWTIncConstructFromPacked] 450 iterations done. 3859685670 characters processed.
+[bwt_gen] Finished constructing BWT in 455 iterations.
+[bwa_index] 2025.96 seconds elapse.
+[bwa_index] Update BWT... 13.92 sec
+[bwa_index] Pack forward-only FASTA... 10.68 sec
+[bwa_index] Construct SA from BWT and Occ... 719.05 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index -p Tconura_ref-filtered Tconura_ref-filtered.fasta
+[main] Real time: 2805.281 sec; CPU: 2788.227 sec

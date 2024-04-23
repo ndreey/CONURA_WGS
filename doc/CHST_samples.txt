@@ -1,0 +1,9 @@
+P12002_111,CHST,CH,West,Allopatric
+P12002_112,CHST,CH,West,Allopatric
+P12002_113,CHST,CH,West,Allopatric
+P12002_114,CHST,CH,West,Allopatric
+P12002_115,CHST,CH,West,Allopatric
+P12002_116,CHST,CH,West,Allopatric
+P12002_117,CHST,CH,West,Allopatric
+P12002_119,CHST,CH,West,Allopatric
+P12002_121,CHST,CH,West,Allopatric
