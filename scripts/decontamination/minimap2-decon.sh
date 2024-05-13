@@ -5,8 +5,8 @@
 #SBATCH --array=1-3
 #SBATCH -p node -n 1
 #SBATCH -t 06:00:00
-#SBATCH --output=slurm-logs/decontamination/SLURM-%j-minimap2-decon-hifi.out
-#SBATCH --error=slurm-logs/decontamination/SLURM-%j-minimap2-decon-hifi.err
+#SBATCH --output=slurm-logs/decontamination/SLURM-%j-minimap2-decon-hifi-%a.out
+#SBATCH --error=slurm-logs/decontamination/SLURM-%j-minimap2-decon-hifi-%a.err
 #SBATCH --mail-user=andbou95@gmail.com
 #SBATCH --mail-type=ALL
 
@@ -24,7 +24,7 @@ module load BEDTools/2.31.1
 RAW="/crex/proj/snic2020-6-222/Projects/Tconura/data/reference/hifiasm_Assemb2020_pt_042/pt_042/ccsreads/pt_042_001"
 
 # Path to trimmed reads and reference database of Tconura.
-REF="data/Tconura_reference_genome/Tconura_ref-filtered"
+REF="data/Tconura_reference_genome/Tconura_ref-filtered.mmi"
 
 # SLURM array jobid
 JOBID=${SLURM_ARRAY_TASK_ID}
@@ -45,8 +45,8 @@ if [ ! -d "${BAM_DIR}" ]; then
 fi
 
 # Run minimap2 alignment.
-minimap2 -a -x map-hifi -t 16 Tconura_ref-filtered.mmi $READ | \
-    samtools sort - -@ 16 -o ${BAM_DIR}/${SAMPLE}.bam
+minimap2 -a -x map-hifi -t 16 $REF ${RAW}/${READ} | \
+    samtools view - -b -@ 16 > ${BAM_DIR}/${SAMPLE}.bam
 echo "$(date)   minimap2 alignment complete"
 
 # Generate a bam with all unmapped reads.
