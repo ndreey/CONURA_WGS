@@ -1,0 +1,12 @@
+input: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/doc/samplesheet-reads.csv
+assembly_input: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/doc/samplesheet-assembly.csv
+outdir: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/07-nf-core-mag/CHST
+email: andbou95@gmail.com
+multiqc_title: CHST
+cat_db_generate: true
+save_cat_db: true
+busco_db: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/databases/busco-db/bacteria_odb10/
+save_busco_db: true
+busco_clean: true
+save_checkm_data: true
+refine_bins_dastool: true
