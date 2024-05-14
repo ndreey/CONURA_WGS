@@ -6,5 +6,10 @@
 04-CLEAN-FASTQ/
 05-CLEAN-MERGED/
 06-ASSEMBLY/
+07-nf-core-mag
 data/
 slurm-logs/
+nf-core-mag
+nf-core-mag-test
+.nextflow/
+.nextflow.log
