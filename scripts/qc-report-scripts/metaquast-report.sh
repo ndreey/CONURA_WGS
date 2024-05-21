@@ -16,3 +16,6 @@ echo "$(date)       [Start]"
 module load bioinfo-tools
 module load quast/5.0.2
 
+quast.py -t 4 -l hybrid,sr,megahit --k-mer-stats --no-icarus -o 01-QC/quast-assembly/CHST 06-ASSEMBLY/CHST/contigs.fasta 06-ASSEMBLY/CHST-sr/contigs.fasta 06-ASSEMBLY/CHST-mega/CHST_mega.contigs.fa
+
+

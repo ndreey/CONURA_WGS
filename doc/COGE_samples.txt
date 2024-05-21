@@ -1,0 +1,11 @@
+P12002_133,COGE,CO,West,Allopatric
+P12002_134,COGE,CO,West,Allopatric
+P12002_135,COGE,CO,West,Allopatric
+P12002_136,COGE,CO,West,Allopatric
+P12002_137,COGE,CO,West,Allopatric
+P12002_138,COGE,CO,West,Allopatric
+P12002_139,COGE,CO,West,Allopatric
+P12002_140,COGE,CO,West,Allopatric
+P12002_141,COGE,CO,West,Allopatric
+P12002_142,COGE,CO,West,Allopatric
+P12002_143,COGE,CO,West,Allopatric

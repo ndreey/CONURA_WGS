@@ -1,0 +1,3 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len
+P14052_115_S15_L001_R1_001.fastq.gz	FASTQ	DNA	38002513	5738379463	151	151.0	151
+P14052_115_S15_L001_R2_001.fastq.gz	FASTQ	DNA	38002513	5738379463	151	151.0	151
