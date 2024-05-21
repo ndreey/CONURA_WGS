@@ -9,7 +9,5 @@
 07-nf-core-mag
 data/
 slurm-logs/
-nf-core-mag
-nf-core-mag-test
+nf-core-mag/
 .nextflow/
-.nextflow.log

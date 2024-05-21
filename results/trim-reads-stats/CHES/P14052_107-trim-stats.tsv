@@ -1,0 +1,3 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len
+P14052_107_S7_L001_R1_001-trim.fastq.gz	FASTQ	DNA	32311202	4853731289	36	150.2	151
+P14052_107_S7_L001_R2_001-trim.fastq.gz	FASTQ	DNA	32311202	4853745042	36	150.2	151
