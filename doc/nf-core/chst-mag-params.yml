@@ -1,0 +1,8 @@
+input: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/doc/samplesheet-reads.csv
+assembly_input: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/doc/samplesheet-assembly.csv
+outdir: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/nf-core-mag/CHST
+email: andbou95@gmail.com
+multiqc_title: CHST
+binqc_tool: checkm
+save_checkm_data: true
+refine_bins_dastool: true

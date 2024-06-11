@@ -42,3 +42,8 @@ WARN: Singularity cache directory has not been defined -- Remote image will be s
 nextflow run nf-core/mag -r 3.0.0 -profile uppmax --project naiss2024-5-1 --outdir CHST
 
 nextflow run <pipeline> -bg > my-file.log
+
+
+nextflow run nf-core/mag -r 3.0.0 -bg -profile uppmax -params-file ../doc/chst-mag-params.yml --project naiss2024-5-1
+
+nextflow run nf-core/mag -r 3.0.0 -bg -profile uppmax -params-file ../doc/chst-mag-params.yml --project naiss2024-5-1 -resume > chst-bg-resumed.log

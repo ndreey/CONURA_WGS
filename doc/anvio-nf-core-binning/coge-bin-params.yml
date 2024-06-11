@@ -1,0 +1,9 @@
+input: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/doc/anvio-nf-core-binning/coge-samplesheet-reads.csv
+assembly_input: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/doc/anvio-nf-core-binning/coge-samplesheet-assembly.csv
+outdir: /crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/07-ANVIO/04-BINNING/COGE
+email: andbou95@gmail.com
+multiqc_title: COGE-BINNING
+skip_binqc: true
+skip_prodigal: true
+skip_prokka: true
+skip_metaeuk: true

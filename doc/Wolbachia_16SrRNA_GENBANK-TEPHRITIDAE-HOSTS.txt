@@ -1,0 +1,3 @@
+NZ_JADCNE010000053,Wolbachia endosymbiont of Rhagoletis cerasi,Rhagoletis cerasi
+NZ_JADCNE010000035,Wolbachia endosymbiont of Rhagoletis cerasi,Rhagoletis cerasi
+NZ_JADCND010000037,Wolbachia endosymbiont of Ceratitis capitata,Ceratitis capitata line Ccap10.3

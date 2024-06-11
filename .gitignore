@@ -6,7 +6,7 @@
 04-CLEAN-FASTQ/
 05-CLEAN-MERGED/
 06-ASSEMBLY/
-07-nf-core-mag
+07-ANVIO/
 data/
 slurm-logs/
 nf-core-mag/

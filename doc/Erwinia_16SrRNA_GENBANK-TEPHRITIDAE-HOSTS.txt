@@ -1,0 +1,151 @@
+AJ586620,Candidatus Erwinia dacicola,Bactrocera oleae: pharyngeal bulb
+FM958431,Candidatus Erwinia dacicola,Bactrocera oleae
+FM958430,Candidatus Erwinia dacicola,Bactrocera oleae
+FM958429,Candidatus Erwinia dacicola,Bactrocera oleae
+FM958428,Candidatus Erwinia dacicola,Bactrocera oleae
+GQ478378,Candidatus Erwinia dacicola,Bactrocera oleae (olive fly)
+GQ478377,Candidatus Erwinia dacicola,Bactrocera oleae (olive fly)
+GQ478373,Candidatus Erwinia dacicola,Bactrocera oleae (olive fly)
+JQ918043,uncultured Erwinia sp.,Bactrocera dorsalis male adults
+NZ_SEZT01000334,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+MAYS01000562,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_SEZT01000510,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000501,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000497,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000482,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000453,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000442,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000389,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000269,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000192,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000172,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000147,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_SEZT01000044,Candidatus Erwinia dacicola,Bactrocera oleae (Rossi)
+NZ_LJAM02000537,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000536,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000535,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000534,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000532,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000531,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000530,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000528,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000527,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000526,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000525,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000524,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000523,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000522,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000521,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000520,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000519,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000518,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000516,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000515,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000514,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000513,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000512,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000511,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000509,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000508,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000507,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000506,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000505,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000504,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000503,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000501,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000499,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000498,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000497,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000496,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_LJAM02000495,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000602,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000593,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000591,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000590,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000548,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000542,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000529,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000474,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000456,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000455,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000439,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000430,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000410,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000408,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000341,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000336,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000326,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000319,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000293,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000289,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000288,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000257,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000254,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000242,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000208,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000206,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000205,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000203,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000177,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000171,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000148,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000145,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000023,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000016,Candidatus Erwinia dacicola,Bactrocera oleae
+NZ_MAYS01000003,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000003,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000016,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000023,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000145,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000148,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000171,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000177,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000203,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000205,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000206,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000208,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000242,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000254,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000257,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000288,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000289,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000293,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000319,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000326,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000336,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000341,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000408,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000410,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000430,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000439,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000455,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000456,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000474,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000522,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000529,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000535,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000542,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000548,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000563,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000590,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000591,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000593,Candidatus Erwinia dacicola,Bactrocera oleae
+MAYS01000602,Candidatus Erwinia dacicola,Bactrocera oleae
+FM958433,uncultured Flavobacterium sp.,Bactrocera oleae
+FM958447,uncultured Sphingobacterium sp.,Bactrocera oleae
+FM958446,uncultured Sphingobacterium sp.,Bactrocera oleae
+FM958445,uncultured Sphingobacterium sp.,Bactrocera oleae
+FM958444,uncultured Sphingobacterium sp.,Bactrocera oleae
+FM958432,uncultured Flavobacterium sp.,Bactrocera oleae
+FM958427,uncultured beta proteobacterium,Bactrocera oleae
+FM958426,uncultured beta proteobacterium,Bactrocera oleae
+FM958425,uncultured beta proteobacterium,Bactrocera oleae
+FM958423,uncultured Alphaproteobacteria bacterium,Bactrocera oleae
+FM958421,uncultured Alphaproteobacteria bacterium,Bactrocera oleae
+FM958442,uncultured Gammaproteobacteria bacterium,Bactrocera oleae
+FM958439,uncultured Gammaproteobacteria bacterium,Bactrocera oleae
+FM958436,uncultured Gammaproteobacteria bacterium,Bactrocera oleae
+FM958435,uncultured Gammaproteobacteria bacterium,Bactrocera oleae
+GQ478383,uncultured Enterobacter sp.,Bactrocera oleae (olive fly)
+GQ478382,uncultured Enterobacter sp.,Bactrocera oleae (olive fly)
+GQ478376,uncultured Enterobacter sp.,Bactrocera oleae (olive fly)
