@@ -7,6 +7,7 @@
 05-CLEAN-MERGED/
 06-ASSEMBLY/
 07-ANVIO/
+08-ANVIO-ALL/
 data/
 slurm-logs/
 nf-core-mag/

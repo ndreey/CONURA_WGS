@@ -25,7 +25,7 @@ for TOOL in $(ls ${BLAST_DB_DIR}/); do
         blastn \
             -query ${QUERY} \
             -db ${DB_PATH} \
-            -outfmt "6 qseqid qlen sseqid slen nident pident length mismatch evalue bitscore score sstart ssend sseq" \
+            -outfmt "6 qseqid qlen sseqid slen nident pident length mismatch evalue score sstart send sseq" \
             -out ${BLAST_OUT} \
             -num_threads 4
 
