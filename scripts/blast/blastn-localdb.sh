@@ -7,7 +7,7 @@ module load blast/2.15.0+
 
 # Paths and variables
 POP=$1
-BLAST_DB_DIR=/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/07-ANVIO/blastn-db/${POP}
+BLAST_DB_DIR=/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/08-ANVIO-all/blastn-db/metaWRAP-refine
 QUERY=/crex/proj/snic2020-6-222/Projects/Tconura/working/Andre/CONURA_WGS/doc/Erwinia_Stammerula_Wolbachia-16SrRNA.fa
 # Iterate over tools and binning methods using ls command
 for TOOL in $(ls ${BLAST_DB_DIR}/); do
