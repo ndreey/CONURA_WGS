@@ -1,4 +1,4 @@
-# Metagenome-Assembled Genome of the Obligate Symbiont _Candidatus Stammerula tephritidis_ During Host Plant Shift in the Ecological Divergence of its host, _Tephritis conura_. 
+# Metagenome-Assembled Genome of the Obligate Symbiont _Candidatus Stammerula tephritidis_ During Host Plant Shift in the Ecological Divergence of its Host, _Tephritis conura_. 
 
 A metagenomic analysis is exhaustive and complicated as it utilizes a plathera of tools. Through this documentation, the steps taken to produce the _Candidatus Stammerula tephritis_ metagenome-assembled genome (MAG) is described.
 
