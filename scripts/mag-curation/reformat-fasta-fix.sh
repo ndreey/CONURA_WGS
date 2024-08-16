@@ -46,7 +46,7 @@ while getopts ":p:m:t:l:h" opt; do
 done
 
 # Check if all required options are set
-if [ -z "${POP}" ] || [ -z "${METAGENOME}" ] || [ -z "${NUM_THREADS}" ]; then
+if [ -z "${POP}" ] || [ -z "${NUM_THREADS}" ]; then
     echo "Error: All options -p, -m, and -t are required." 1>&2
     usage
 fi
@@ -60,28 +60,10 @@ if [ ! -d "${FIX_DIR}" ]; then
     mkdir -p ${FIX_DIR}
 fi
 
-# Reformat the contigs of the assembly, keeping only 
-# contigs equal or above 2.5 Kbp.
-anvi-script-reformat-fasta \
-    --output-file ${FIX_DIR}/${POP}-contigs.fa \
-    --prefix ${POP} \
-    --min-len ${MIN_LENGTH} \
-    --simplify-names \
-    ../06-ASSEMBLY/${METAGENOME}/contigs.fasta
 
 # Create directory for bam files
 if [ ! -d "${ALIGN_DIR}" ]; then
     mkdir -p ${ALIGN_DIR}
-fi
-
-# Generate a temp file holding the clean reads for the chosen pop.
-TMP_FILE=$(mktemp)
-
-# Greps the reads to be used for alignment
-if [[ "${POP}" == "all" ]]; then
-    cat ../doc/all-clean-reads.txt > "${TMP_FILE}"
-else         
-    cat ../doc/all-clean-reads.txt | grep "${POP}" >  "${TMP_FILE}"
 fi
 
 # Check if bowtie2 index files exist
@@ -126,10 +108,7 @@ while read R1 R2; do
     # Remove the .sam and raw bam file
     rm ${ALIGN_DIR}/${SAMPLE}.sam ${ALIGN_DIR}/${SAMPLE}-RAW.bam
 
-done < ${TMP_FILE}
-
-# Remove the temporary file
-rm ${TMP_FILE}
+done < ../doc/all-clean-reads.txt
 
 # End time and date
 echo "$(date)       [End]"
