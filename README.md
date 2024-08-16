@@ -451,3 +451,37 @@ write_csv(metawrap_data, "results/COGE-metawrap-MAG-stats.csv")
 
 ```
 
+Here is an example of the csv but for CHST.
+
+```
+Metric,bin.1,bin.2
+Comp.,99.03,97.63
+Cont.,0,1.96
+Contigs,11,99
+N50,1,19
+L50,770501,17351
+Contig_max,770501,70370
+GC,0.43,0.35
+Size,1506883,1109950
+CDS_Dens.,0.733,0.859
+Tot.CDS,1262,1075
+Avg.Gene.Len.,292.458795562599,296.435348837209
+23S,1,1
+15S,6,1
+5S,5,0
+rRNA,12,2
+tRNA,43,35
+ori,0,1
+ANI,N/A,97.58
+AF,N/A,0.862
+Closest_ref,N/A,GCF_021378375.1
+Domain,Bacteria,Bacteria
+Phyla,Pseudomonadota,Pseudomonadota
+Clade,Gammaproteobacteria,Alphaproteobacteria
+Order,Enterobacterales,Rickettsiales
+Family,Enterobacteriaceae,Anaplasmataceae
+Genus,Erwinia,Wolbachia
+Species,,Wolbachia pipientis
+
+```
+
