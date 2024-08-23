@@ -51,6 +51,7 @@ One can approach this by doing all the steps by themselves. but the wrapper prog
 | metaSPAdes       | 3.15.5  |
 | hybridSPAdes     | 3.15.5  |
 | Anvio            | 8.0     |
+| Bowtie2          | tba     |
 | Prodigal         | 2.6.3   |
 | metaWRAP         | 1.3.2   |
 | CONCOCT          | 1.0.0   |
