@@ -7,10 +7,8 @@ A metagenomic analysis is exhaustive and complicated as it utilizes a multitude 
 
 There are multiple ways of getting from raw sequences to a MAG. During this research project, multiple tools, wrappers, programs and workflows were tested.
 To understand my decision making, fallbacks and wins, please look at the **issues** tab on this repository. It has been used as a log book and might come into hand. As well as my project report.
-- [Report](./doc/
-
-Finally, before starting this journey, whole-metagenome analysis is quite a hefty mission.
-Basic bioinformatical foundamentals must already be understood before getting lost in the jungle of metagenomics.
+- [Report](https://github.com/ndreey/CONURA_WGS/blob/main/doc/Metagenome-Assembled%20Genome%20of%20an%20Obligate%20Symbiont%20During%20%20Ecological%20Divergence%20of%20its%20Host.pdf)
+- [Detailed Workflow](https://raw.githubusercontent.com/ndreey/CONURA_WGS/refs/heads/main/doc/Detailed%20Flowchart_MAG.jpg)
 
 This guides assumes you have these fundamentals, and therefore, I will speed through the many steps.
 I would say there are three major steps
