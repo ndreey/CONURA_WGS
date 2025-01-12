@@ -1,16 +1,13 @@
-# Metagenome-Assembled Genome of the Obligate Symbiont _Candidatus Stammerula tephritidis_ During Host Plant Shift in the Ecological Divergence of its Host, _Tephritis conura_. 
+# Metagenome-Assembled Genome of the Obligate Symbiont _Candidatus Stammerula tephritidis_ During Host Plant Shift its Host, _Tephritis conura_. 
 
 ![image](https://github.com/user-attachments/assets/fb1b16d1-09e5-45b1-ba3b-b8bc2492ce13)
 
-![Alt text](results/blast_phylo.png)
 
-A metagenomic analysis is exhaustive and complicated as it utilizes a plathera of tools. Through this documentation, the steps taken to produce the _Candidatus Stammerula tephritis_ metagenome-assembled genome (MAG) is described.
+A metagenomic analysis is exhaustive and complicated as it utilizes a multitude of different tools. Through this documentation, the steps taken to produce the _Candidatus Stammerula tephritis_ metagenome-assembled genome (MAG) is described.
 
-There are multiple ways of getting from raw sequences to a MAG. During this research project, a multitude of tools, wrappers, programs and workflow managers were tested.
-Thus, the repository is filled with various scripts, and as this research project has ended, my research thesis will start and will be a continuation of this work.
-Hence, scripts are abundant and important, as i might require them in the future.
-
+There are multiple ways of getting from raw sequences to a MAG. During this research project, multiple tools, wrappers, programs and workflows were tested.
 To understand my decision making, fallbacks and wins, please look at the **issues** tab on this repository. It has been used as a log book and might come into hand. As well as my project report.
+- [Report](./doc/
 
 Finally, before starting this journey, whole-metagenome analysis is quite a hefty mission.
 Basic bioinformatical foundamentals must already be understood before getting lost in the jungle of metagenomics.
